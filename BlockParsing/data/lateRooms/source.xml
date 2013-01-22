@@ -1,0 +1,1326 @@
+<html>
+<head>
+<meta name="generator" content="HTML Tidy, see www.w3.org" />
+<title>LateRooms.com - discounted hotel accomodation offering last
+minute bargains</title>
+<meta name="keywords"
+content="late,rooms,uk,usa,hotels,budget,beds,reservation,b&amp;b,bed and breakfast,leisure,city,business,weekend,accomodation,accommodation,hotelbook,booking,last minute,bargain,cheap,travel,reduced,cut price,holidays,breaks,specials,offers,overnight,availability,getaway,outdoor,coast,weekends" />
+<meta name="description"
+content="Late availability hotel rooms at budget prices in the UK and USA. The cheapest way to find a bed for a weekend break or business trip reservation." />
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1" />
+<meta http-equiv="XXX-PW-Expires"
+content="Fri, Jun 12 1981 08:20:00 GMT" />
+<meta http-equiv="XXX-PW-Pragma" content="no-cache" />
+<meta http-equiv="XXX-PW-Cache-Control" content="no-cache" />
+<meta http-equiv="Content-Language" content="" />
+<link type="text/css" rel="stylesheet" href="styles.css" />
+<script type="text/javascript" language="JavaScript">
+// pops up a window with either a GB or London or Paris map
+function mapOpen(mapfile, mapwidth, mapheight) {
+    mapwin = window.open(mapfile, 'Map', 'toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=no,resizable=no,width=' + mapwidth + ',height=' + mapheight + ',align=center,screenX=100,screenY=100,left=100,top=100'); 
+    mapwin.focus()
+    }
+</script>
+
+<style type="text/css">
+ body {
+  background-color: #ffffcd;
+ }
+ a.c2 {font-size:8pt;font-weight:bold;color:006633; text-decoration:none; font-family:Arial,Helvetica,sans-serif; }
+ span.c1 {font-family: Times New Roman;}
+</style>
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0"
+marginheight="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0"
+background="http://www.fworld.net/laterooms/graphics_all/header_bg.gif">
+<!-- the nested table below is absolutely necessary in order for the table background to work in Netscape -->
+<tr>
+<td>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"
+background=""><!-- logo & banner -->
+<tr valign="top">
+<td rowspan="3"><a href="index.php3?lang=eng"><img
+src="http://www.fworld.net/laterooms/graphics_all/header_logo.gif"
+width="109" height="149" border="0" /></a></td>
+<td align="right"><a target="new"
+href="http://vic.nation-net.com/phpAds/click.php3?bannerID=333"><img
+ src="http://vic.nation-net.com/phpAds/banners/easycover.gif"
+width="468" height="60" alt="" border="0" /></a><br />
+<img src="graphics/shim.gif" width="1" height="4" /></td>
+<td rowspan="3"><img
+src="http://www.fworld.net/laterooms/graphics_all/header_bg.gif"
+width="5" height="149" /></td>
+</tr>
+
+<!-- description & navigation -->
+<tr valign="top">
+<td align="left" width="100%"><img align="left"
+src="http://www.laterooms.com/graphics_eng_new/header_desc_left.gif"
+ width="396" height="62" /><img align="right"
+src="http://www.laterooms.com/graphics_eng_new/header_desc_right.gif"
+ width="121" height="62" border="0" usemap="#Navigation" /><map
+id="Navigation" name="Navigation">
+<area shape="rect" coords="0,4,121,19"
+href="http://www.laterooms.com/au.php3?lang=eng#book" />
+<area shape="rect" coords="0,18,121,32"
+href="http://www.laterooms.com/au.php3?lang=eng" />
+<area shape="rect" coords="0,31,121,45"
+href="http://www.laterooms.com/cu.php3?lang=eng" />
+<area shape="rect" coords="0,44,121,61"
+href="http://www.laterooms.com/ayh.php3?lang=eng" />
+</map></td>
+</tr>
+
+<!-- change language & The Late Family -->
+<tr>
+<td valign="top">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center"><a href="http://www.laterooms.com"><img
+src="graphics_eng_new/change_flags.gif" width="130" height="23"
+border="0" /></a></td>
+<td align="right"><a target="_blank"
+href="http://www.latecabins.com"><img
+src="http://www.fworld.net/laterooms/graphics_all/latecabins.gif"
+width="103" height="23" border="0" /></a><a target="_blank"
+href="http://www.latelet.com"><img
+src="http://www.fworld.net/laterooms/graphics_all/latelet.gif"
+width="103" height="23" border="0" /></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<!-- search form -->
+<table width="100%" border="0" cellspacing="5" cellpadding="0">
+<tr valign="top">
+<td>
+<table width="100%" border="0" cellspacing="0" cellpadding="5"
+bgcolor="#faf3ab">
+<tr>
+<td>
+<form name="searcher" action="sr.php3#results" method="post">
+</form>
+
+<input type="hidden" name="a" value="l" /><input type="hidden"
+name="lang" value="eng" /><input type="hidden" value="s"
+name="a" /><input type="hidden" value="eng" name="lang" /><input
+type="hidden" value="d" name="as" /><input type="hidden" value=""
+name="ap" /> 
+
+<table xwidth="100%" border="0" cellspacing="0" cellpadding="2"
+bordercolor="green">
+<tr valign="top">
+<td rowspan="6">&#160;</td>
+<td colspan="3" class="NormalBlue14"><span
+class="BoldBlue14">SEARCH RESULTS</span>: BEST DEALS<br />
+<span class="BoldBlue8">You can refine your search below (or <a
+href="#searchform"><b>click here</b></a> to do a new
+search)</span></td>
+</tr>
+
+<tr>
+<td class="BoldOrange8" align="center">In</td>
+<td><select name="r" class="resbody8normal">
+<option value="0">** Select Region **</option>
+<option value="1">England</option>
+<option value="104">- Central</option>
+<option value="111">- Central South</option>
+<option value="114">- Channel Isles</option>
+<option value="113">- Cornwall &amp; Scilly</option>
+<option value="115">- Cotswolds</option>
+<option value="112">- Devon</option>
+<option value="105">- East Anglia</option>
+<option value="106">- Heart of England</option>
+<option value="101">- Lake District</option>
+<option value="108">- London - Inner</option>
+<option value="109">- London - Outer</option>
+<option value="100">- North East</option>
+<option value="103">- North West</option>
+<option value="116">- Peak District</option>
+<option value="110">- South East</option>
+<option value="107">- West Country</option>
+<option value="102">- Yorkshire &amp; Dales</option>
+<option value="2">Scotland</option>
+<option value="200">- Aberdeen</option>
+<option value="201">- Central &amp; West</option>
+<option value="206">- Edinburgh</option>
+<option value="202">- Glasgow</option>
+<option value="205">- Highlands &amp; Islands</option>
+<option value="204">- North East</option>
+<option value="203">- South &amp; Borders</option>
+<option value="3">Wales</option>
+<option value="301">- Mid Wales</option>
+<option value="300">- North Wales</option>
+<option value="302">- South Wales</option>
+<option value="303">- West Wales</option>
+<option value="4">N. Ireland</option>
+<option value="401">- Belfast</option>
+<option value="400">- N. Ireland - Other</option>
+<option value="5">Republic of Ireland</option>
+<option value="504">- Dublin</option>
+<option value="501">- Midlands East</option>
+<option value="500">- North West</option>
+<option value="503">- Shannon</option>
+<option value="505">- South East</option>
+<option value="506">- South West</option>
+<option value="502">- West</option>
+</select> </td>
+<td><a
+href="javascript:mapOpen('http://www.uk.laterooms.com/graphics/gb_graphics/ukmap.special.php3', '511', '405')">
+<img src="http://www.fworld.net/laterooms/graphics_all/gbmap.gif"
+width="30" height="37" align="left" border="0" /><b>Click here for
+a map</b></a></td>
+</tr>
+
+<tr>
+<td class="BoldBlue8">ARRIVAL DATE</td>
+<td><select name="d" size="1" class="NormalBlue8">
+<option class="NormalBlue8" value='0' selected="selected">Mon 15
+Oct 2001</option>
+<option class="NormalBlue8" value='1'>Tue 16 Oct 2001</option>
+<option class="NormalBlue8" value='2'>Wed 17 Oct 2001</option>
+<option class="NormalBlue8" value='3'>Thu 18 Oct 2001</option>
+<option class="NormalBlue8" value='4'>Fri 19 Oct 2001</option>
+<option class="NormalBlue8" value='5'>Sat 20 Oct 2001</option>
+<option class="NormalBlue8" value='6'>Sun 21 Oct 2001</option>
+<option class="NormalBlue8" value='7'>Mon 22 Oct 2001</option>
+<option class="NormalBlue8" value='8'>Tue 23 Oct 2001</option>
+<option class="NormalBlue8" value='9'>Wed 24 Oct 2001</option>
+<option class="NormalBlue8" value='10'>Thu 25 Oct 2001</option>
+<option class="NormalBlue8" value='11'>Fri 26 Oct 2001</option>
+<option class="NormalBlue8" value='12'>Sat 27 Oct 2001</option>
+<option class="NormalBlue8" value='13'>Sun 28 Oct 2001</option>
+<option class="NormalBlue8" value='14'>Mon 29 Oct 2001</option>
+<option class="NormalBlue8" value='15'>Tue 30 Oct 2001</option>
+<option class="NormalBlue8" value='16'>Wed 31 Oct 2001</option>
+<option class="NormalBlue8" value='17'>Thu 1 Nov 2001</option>
+<option class="NormalBlue8" value='18'>Fri 2 Nov 2001</option>
+<option class="NormalBlue8" value='19'>Sat 3 Nov 2001</option>
+<option class="NormalBlue8" value='20'>Sun 4 Nov 2001</option>
+</select> </td>
+<td>&#160;</td>
+</tr>
+
+<tr>
+<td class="BoldBlue8">NO. OF NIGHTS</td>
+<td><select name="n" size="1" class="NormalBlue8">
+<option class="NormalBlue8" value="1">1 night</option>
+<option value="2">2 nights</option>
+<option value="3">3 nights</option>
+<option value="4">4 nights</option>
+<option value="5">5 nights</option>
+<option value="6">6 nights</option>
+<option value="7">7 nights</option>
+</select> </td>
+<td>&#160;</td>
+</tr>
+
+<tr>
+<td class="BoldBlue8">ROOM TO SLEEP</td>
+<td colspan="2">
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td><select size="1" name="b" class="NormalBlue8">
+<option value="1" selected="selected">1 person</option>
+<option value="2">2 people</option>
+<option value="3">2 + 1 child</option>
+<option value="4">2 + 2 children</option>
+<option value="5">3+ adults</option>
+</select> </td>
+<td align="right"><a
+href="Javascript:document.searcher.submit()"><img
+src="graphics_eng_new/btn_search.gif" width="97" height="27"
+border="0" /></a> </td>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr>
+<td colspan="4" class="BoldBrown8"><span class="BoldBrown10">Hint:
+Select a region to narrow down your search</span></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<a id="results" name="results"><img src="graphics/shim.gif"
+width="1" height="5" /></a> 
+
+<table bgcolor="#efe7bd" width="100%" cellpadding="0"
+cellspacing="0"><!-- search results -->
+<tr>
+<td>
+<table width="100%" class="resbodynew" border="1" bgcolor="#ffffcd"
+bordercolor="#D8E0C8">
+<tr bordercolor="CCCCCC" bgcolor="#faf3ab" xbgcolor="efe7bd">
+<td class="resheadnew">Hotel</td>
+<td align="right" class="resheadnew">Location</td>
+<td class="resheadnew">&#160;</td>
+<td class="resheadnew">Oct15</td>
+<td class="resheadnew">Oct16</td>
+<td class="resheadnew">Oct17</td>
+<td class="resheadnew">&#160;</td>
+</tr>
+
+<tr bgcolor="#ffffcd">
+<td class="resbody8">THE NEWTON HOTEL &amp; HIGHLAND CONFERENCE
+CENTRE</td>
+<td align="right" class="resheadnew">Nairn</td>
+<td class="resbody8normal">4*</td>
+<td class="reslratenew">60.00</td>
+<td class="reslratenew">60.00</td>
+<td class="reslratenew">60.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/N949.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#faf3ab">
+<td class="resbody8">KITLEY HOUSE HOTEL</td>
+<td align="right" class="resheadnew">Plymouth</td>
+<td class="resbody8normal">3*</td>
+<td class="reslratenew">50.00</td>
+<td class="reslratenew">50.00</td>
+<td class="reslratenew">50.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/P879.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#ffffcd">
+<td class="resbody8">THE BERKELEY COURT</td>
+<td align="right" class="resheadnew">Dublin 4</td>
+<td class="resbody8normal">5*</td>
+<td class="reslratenew"><span class="c1">&#8364;</span>125.00</td>
+<td class="reslratenew"><span class="c1">&#8364;</span>125.00</td>
+<td class="reslratenew"><span class="c1">&#8364;</span>125.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/D441.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#faf3ab">
+<td class="resbody8">BURLINGTON HOTEL</td>
+<td align="right" class="resheadnew">Dublin</td>
+<td class="resbody8normal">4*</td>
+<td class="reslratenew"><span class="c1">&#8364;</span>79.00</td>
+<td class="reslratenew"><span class="c1">&#8364;</span>79.00</td>
+<td class="reslratenew"><span class="c1">&#8364;</span>89.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/D444.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#ffffcd">
+<td class="resbody8">THE BONHAM</td>
+<td align="right" class="resheadnew">Edinburgh</td>
+<td class="resbody8normal">4*</td>
+<td class="reslratenew">65.00</td>
+<td class="reslratenew">90.00</td>
+<td class="reslratenew">65.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/E524.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#faf3ab">
+<td class="resbody8">ROYAL GARDEN APARTMENTS</td>
+<td align="right" class="resheadnew">Edinburgh</td>
+<td class="resbody8normal">4*</td>
+<td class="reslratenew">99.00</td>
+<td class="reslratenew">99.00</td>
+<td class="reslratenew">99.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/E402.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#ffffcd">
+<td class="resbody8">MAITLANDFIELD HOUSE HOTEL</td>
+<td align="right" class="resheadnew">Edinburgh (haddington)</td>
+<td class="resbody8normal">3*</td>
+<td class="reslratenew">50.00</td>
+<td class="reslratenew">50.00</td>
+<td class="reslratenew">50.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/E558.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#faf3ab">
+<td class="resbody8">JURYS EDINBURGH INN</td>
+<td align="right" class="resheadnew">Edinburgh</td>
+<td class="resbody8normal">3*</td>
+<td class="reslratenew">35.00</td>
+<td class="resbody8">87.00</td>
+<td class="reslratenew">35.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/E468.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#ffffcd">
+<td class="resbody8">GEORGE INTER-CONTINENTAL EDINBURGH</td>
+<td align="right" class="resheadnew">Edinburgh</td>
+<td class="resbody8normal">4*</td>
+<td class="reslratenew">76.00</td>
+<td class="reslratenew">76.00</td>
+<td class="reslratenew">76.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/E481.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#faf3ab">
+<td class="resbody8">CHANNINGS</td>
+<td align="right" class="resheadnew">Edinburgh</td>
+<td class="resbody8normal">4*</td>
+<td class="reslratenew">85.00</td>
+<td class="reslratenew">80.00</td>
+<td class="reslratenew">80.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/E485.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#ffffcd">
+<td class="resbody8">MUCKRACH LODGE HOTEL &amp; RESTAURANT</td>
+<td align="right" class="resheadnew">Grantown-on-spey</td>
+<td class="resbody8normal">4*</td>
+<td class="reslratenew">30.00</td>
+<td class="reslratenew">30.00</td>
+<td class="reslratenew">30.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/G1034.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#faf3ab">
+<td class="resbody8">DUNDONNELL HOTEL</td>
+<td align="right" class="resheadnew">Ullapool</td>
+<td class="resbody8normal">4*</td>
+<td class="reslratenew">60.00</td>
+<td class="reslratenew">60.00</td>
+<td class="reslratenew">60.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/U827.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#ffffcd">
+<td class="resbody8">THE INN ON THE GREEN</td>
+<td align="right" class="resheadnew">Glasgow</td>
+<td class="resbody8normal">3*</td>
+<td class="reslratenew">45.00</td>
+<td class="reslratenew">45.00</td>
+<td class="reslratenew">45.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/G824.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#faf3ab">
+<td class="resbody8">JURYS GLASGOW HOTEL</td>
+<td align="right" class="resheadnew">Glasgow</td>
+<td class="resbody8normal">3*</td>
+<td class="reslratenew">39.00</td>
+<td class="reslratenew">39.00</td>
+<td class="reslratenew">39.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/G456.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#ffffcd">
+<td class="resbody8">CAMERON HOUSE</td>
+<td align="right" class="resheadnew">Loch Lomond</td>
+<td class="resbody8normal">5*</td>
+<td class="reslratenew">117.50</td>
+<td class="reslratenew">117.50</td>
+<td class="reslratenew">117.50</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/L195.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#faf3ab">
+<td class="resbody8">THE BEAR HOTEL</td>
+<td align="right" class="resheadnew">Woodstock (nr Oxford)</td>
+<td class="resbody8normal">3*</td>
+<td class="reslratenew">70.00</td>
+<td class="reslratenew">70.00</td>
+<td class="reslratenew">70.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/W541.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#ffffcd">
+<td class="resbody8">THE GRAND HOTEL</td>
+<td align="right" class="resheadnew">Jersey</td>
+<td class="resbody8normal">4*</td>
+<td class="resbody8">150.00</td>
+<td class="resbody8">150.00</td>
+<td class="reslratenew">75.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/J203.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#faf3ab">
+<td class="resbody8">THE PRIORY BAY HOTEL</td>
+<td align="right" class="resheadnew">Seaview, Isle Of Wight</td>
+<td class="resbody8normal">3*</td>
+<td class="reslratenew">62.00</td>
+<td class="reslratenew">62.00</td>
+<td class="reslratenew">62.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/S701.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#ffffcd">
+<td class="resbody8">ROYAL BEACH HOTEL</td>
+<td align="right" class="resheadnew">Portsmouth</td>
+<td class="resbody8normal">3*</td>
+<td class="reslratenew">49.00</td>
+<td class="reslratenew">49.00</td>
+<td class="reslratenew">49.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/P663.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#faf3ab">
+<td class="resbody8">APARTMENTS IN OXFORD</td>
+<td align="right" class="resheadnew">Oxford</td>
+<td class="resbody8normal">5*</td>
+<td class="reslratenew">90.00</td>
+<td class="reslratenew">90.00</td>
+<td class="reslratenew">90.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/O625.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#ffffcd">
+<td class="resbody8">THE GRAND HOTEL</td>
+<td align="right" class="resheadnew">Brighton</td>
+<td class="resbody8normal">5*</td>
+<td class="reslratenew">110.00</td>
+<td class="reslratenew">110.00</td>
+<td class="reslratenew">110.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/B202.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#faf3ab">
+<td class="resbody8">4 STAR COUNTRY HOUSE HOTEL</td>
+<td align="right" class="resheadnew">Gatwick</td>
+<td class="resbody8normal">4*</td>
+<td class="reslratenew">59.00</td>
+<td class="reslratenew">59.00</td>
+<td class="reslratenew">59.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/G1091.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#ffffcd">
+<td class="resbody8">JURYS KENSINGTON</td>
+<td align="right" class="resheadnew">London</td>
+<td class="resbody8normal">4*</td>
+<td class="reslratenew">75.00</td>
+<td class="reslratenew">75.00</td>
+<td class="reslratenew">75.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/L452.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#faf3ab">
+<td class="resbody8">JURYS CLIFTON FORD HOTEL</td>
+<td align="right" class="resheadnew">London</td>
+<td class="resbody8normal">4*</td>
+<td class="reslratenew">75.00</td>
+<td class="reslratenew">75.00</td>
+<td class="reslratenew">75.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/L453.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#ffffcd">
+<td class="resbody8">HOTEL INTER-CONTINENTAL LONDON</td>
+<td align="right" class="resheadnew">London</td>
+<td class="resbody8normal">5*</td>
+<td class="reslratenew">159.00</td>
+<td class="reslratenew">159.00</td>
+<td class="reslratenew">159.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/L480.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#faf3ab">
+<td class="resbody8">EUSTON PLAZA HOTEL</td>
+<td align="right" class="resheadnew">London City/west-end</td>
+<td class="resbody8normal">4*</td>
+<td class="reslratenew">69.00</td>
+<td class="reslratenew">69.00</td>
+<td class="reslratenew">69.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/L908.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#ffffcd">
+<td class="resbody8">COMFORT INN NOTTING HILL - ( TRENDY NOTTING
+HILL )</td>
+<td align="right" class="resheadnew">London</td>
+<td class="resbody8normal">3*</td>
+<td class="reslratenew">NA</td>
+<td class="reslratenew">65.00</td>
+<td class="reslratenew">49.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/L1032.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#faf3ab">
+<td class="resbody8">COMFORT INN BAYSWATER</td>
+<td align="right" class="resheadnew">London</td>
+<td class="resbody8normal">3*</td>
+<td class="reslratenew">48.00</td>
+<td class="reslratenew">48.00</td>
+<td class="reslratenew">48.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/L1037.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#ffffcd">
+<td class="resbody8">CHURCHILL INTER-CONTINENTAL LONDON</td>
+<td align="right" class="resheadnew">London</td>
+<td class="resbody8normal">5*</td>
+<td class="reslratenew">199.00</td>
+<td class="reslratenew">199.00</td>
+<td class="reslratenew">199.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/L479.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#faf3ab">
+<td class="resbody8">ANCHOR HOTEL</td>
+<td align="right" class="resheadnew">London</td>
+<td class="resbody8normal">3D</td>
+<td class="reslratenew">49.00</td>
+<td class="reslratenew">NA</td>
+<td class="reslratenew">NA</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/L220.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#ffffcd">
+<td class="resbody8">130 QUEENSGATE LONDON APART'HOTEL</td>
+<td align="right" class="resheadnew">London - Inner</td>
+<td class="resbody8normal">4*</td>
+<td class="reslratenew">89.00</td>
+<td class="reslratenew">89.00</td>
+<td class="reslratenew">89.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/L695.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#faf3ab">
+<td class="resbody8">10 MANCHESTER STREET</td>
+<td align="right" class="resheadnew">London</td>
+<td class="resbody8normal">4D</td>
+<td class="reslratenew">80.00</td>
+<td class="reslratenew">80.00</td>
+<td class="reslratenew">80.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/L957.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#ffffcd">
+<td class="resbody8">SANDRIDGE PARK</td>
+<td align="right" class="resheadnew">Bath</td>
+<td class="resbody8normal">L</td>
+<td class="reslratenew">48.00</td>
+<td class="reslratenew">45.00</td>
+<td class="reslratenew">45.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/B836.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#faf3ab">
+<td class="resbody8">JURYS BRISTOL HOTEL</td>
+<td align="right" class="resheadnew">Bristol</td>
+<td class="resbody8normal">4*</td>
+<td class="reslratenew">49.00</td>
+<td class="resbody8">125.00</td>
+<td class="resbody8">125.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/B454.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#ffffcd">
+<td class="resbody8">DEVERE SWINDON</td>
+<td align="right" class="resheadnew">Swindon</td>
+<td class="resbody8normal">4*</td>
+<td class="resbody8">150.00</td>
+<td class="reslratenew">75.00</td>
+<td class="resbody8">150.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/S198.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#faf3ab">
+<td class="resbody8">THE QUALITY HOTEL REDDITCH</td>
+<td align="right" class="resheadnew">Redditch</td>
+<td class="resbody8normal">3*</td>
+<td class="reslratenew">NA</td>
+<td class="reslratenew">50.00</td>
+<td class="reslratenew">NA</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/R614.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#ffffcd">
+<td class="resbody8">THE BELFRY</td>
+<td align="right" class="resheadnew">Wishaw</td>
+<td class="resbody8normal">4*</td>
+<td class="reslratenew">100.00</td>
+<td class="reslratenew">NA</td>
+<td class="reslratenew">NA</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/W179.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#faf3ab">
+<td class="resbody8">MARSTON FARM HOTEL</td>
+<td align="right" class="resheadnew">Sutton Coldfield, (near
+Birmingham)</td>
+<td class="resbody8normal">3*</td>
+<td class="reslratenew">55.00</td>
+<td class="reslratenew">55.00</td>
+<td class="reslratenew">55.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/S1040.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#ffffcd">
+<td class="resbody8">DUNSTON HALL</td>
+<td align="right" class="resheadnew">Norwich</td>
+<td class="resbody8normal">4*</td>
+<td class="reslratenew">75.00</td>
+<td class="reslratenew">NA</td>
+<td class="reslratenew">NA</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/N201.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#faf3ab">
+<td class="resbody8">MOTTRAM HALL</td>
+<td align="right" class="resheadnew">Prestbury</td>
+<td class="resbody8normal">4*</td>
+<td class="reslratenew">85.00</td>
+<td class="reslratenew">85.00</td>
+<td class="resbody8">170.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/P210.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#ffffcd">
+<td class="resbody8">DE VERE DARESBURY PARK</td>
+<td align="right" class="resheadnew">Warrington</td>
+<td class="resbody8normal">4*</td>
+<td class="resbody8">130.00</td>
+<td class="reslratenew">75.00</td>
+<td class="reslratenew">75.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/W196.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#faf3ab">
+<td class="resbody8">BRITANNIA HOTEL</td>
+<td align="right" class="resheadnew">Manchester</td>
+<td class="resbody8normal">3*</td>
+<td class="reslratenew">39.50</td>
+<td class="reslratenew">39.50</td>
+<td class="reslratenew">39.50</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/M1055.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#ffffcd">
+<td class="resbody8">BRITANNIA ADELPHI HOTEL</td>
+<td align="right" class="resheadnew">Liverpool</td>
+<td class="resbody8normal">4*</td>
+<td class="reslratenew">39.50</td>
+<td class="reslratenew">39.50</td>
+<td class="reslratenew">39.50</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/L1103.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#faf3ab">
+<td class="resbody8">SWALLOW ST GEORGE HOTEL</td>
+<td align="right" class="resheadnew">Harrogate</td>
+<td class="resbody8normal">3*</td>
+<td class="reslratenew">70.00</td>
+<td class="reslratenew">NA</td>
+<td class="reslratenew">NA</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/H1016.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#ffffcd">
+<td class="resbody8">OULTON HALL</td>
+<td align="right" class="resheadnew">Leeds</td>
+<td class="resbody8normal">5*</td>
+<td class="reslratenew">NA</td>
+<td class="reslratenew">80.00</td>
+<td class="reslratenew">80.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/L205.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#faf3ab">
+<td class="resbody8">HARROGATE SPA</td>
+<td align="right" class="resheadnew">Harrogate</td>
+<td class="resbody8normal">3*</td>
+<td class="reslratenew">49.00</td>
+<td class="reslratenew">49.00</td>
+<td class="reslratenew">49.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/H662.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#ffffcd">
+<td class="resbody8">LANGDALE HOTEL &amp; COUNTRY CLUB</td>
+<td align="right" class="resheadnew">Nr Ambleside</td>
+<td class="resbody8normal">3*</td>
+<td class="reslratenew">NA</td>
+<td class="reslratenew">NA</td>
+<td class="reslratenew">80.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/N257.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#faf3ab">
+<td class="resbody8">ELTERMERE COUNTRY HOUSE HOTEL</td>
+<td align="right" class="resheadnew">Nr Ambleside</td>
+<td class="resbody8normal">2*</td>
+<td class="reslratenew">25.00</td>
+<td class="reslratenew">25.00</td>
+<td class="reslratenew">25.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/N928.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#ffffcd">
+<td class="resbody8">CROWN &amp; MITRE</td>
+<td align="right" class="resheadnew">Carlisle</td>
+<td class="resbody8normal">3*</td>
+<td class="reslratenew">49.00</td>
+<td class="reslratenew">49.00</td>
+<td class="reslratenew">49.00</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/C661.html'>Details</a></td>
+</tr>
+
+<tr bgcolor="#faf3ab">
+<td class="resbody8">SLALEY HALL</td>
+<td align="right" class="resheadnew">Hexham</td>
+<td class="resbody8normal">4*</td>
+<td class="reslratenew">87.50</td>
+<td class="resbody8">175.00</td>
+<td class="reslratenew">NA</td>
+<td class="resheadnew"><a
+href='http://www.uk.laterooms.com/en/H206.html'>Details</a></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td class="lr4" colspan="2" bgcolor="eeeebb">Results: 1-50 <a
+href="/sr.php3?a=s&amp;al1=&amp;al2=&amp;as=d&amp;ap=&amp;p=&amp;d=&amp;n=&amp;b=1&amp;r=1-5&amp;s=asc&amp;page=50&#9001;=eng">
+51-100</a> <a
+href="/sr.php3?a=s&amp;al1=&amp;al2=&amp;as=d&amp;ap=&amp;p=&amp;d=&amp;n=&amp;b=1&amp;r=1-5&amp;s=asc&amp;page=100&#9001;=eng">
+101-150</a> <a
+href="/sr.php3?a=s&amp;al1=&amp;al2=&amp;as=d&amp;ap=&amp;p=&amp;d=&amp;n=&amp;b=1&amp;r=1-5&amp;s=asc&amp;page=150&#9001;=eng">
+151-200</a> <a
+href="/sr.php3?a=s&amp;al1=&amp;al2=&amp;as=d&amp;ap=&amp;p=&amp;d=&amp;n=&amp;b=1&amp;r=1-5&amp;s=asc&amp;page=200&#9001;=eng">
+201-250</a> <a
+href="/sr.php3?a=s&amp;al1=&amp;al2=&amp;as=d&amp;ap=&amp;p=&amp;d=&amp;n=&amp;b=1&amp;r=1-5&amp;s=asc&amp;page=250&#9001;=eng">
+251-300</a> <a
+href="/sr.php3?a=s&amp;al1=&amp;al2=&amp;as=d&amp;ap=&amp;p=&amp;d=&amp;n=&amp;b=1&amp;r=1-5&amp;s=asc&amp;page=300&#9001;=eng">
+301-350</a> <a
+href="/sr.php3?a=s&amp;al1=&amp;al2=&amp;as=d&amp;ap=&amp;p=&amp;d=&amp;n=&amp;b=1&amp;r=1-5&amp;s=asc&amp;page=350&#9001;=eng">
+351-351</a> </td>
+</tr>
+
+<tr>
+<td class="lr4" colspan="2" bgcolor="eeeebb">Show Hotels|<a
+href="/sr.php3?a=s&amp;al1=&amp;al2=&amp;as=d&amp;ap=&amp;p=&amp;d=&amp;n=&amp;b=1&amp;r=1-5&amp;s=asc&amp;page=50&#9001;=eng">
+next &gt;&gt;&gt;</a> </td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<br />
+ 
+
+<table>
+<tr>
+<td class="lr2">Prices in &#163; Pounds Sterling (UK)/Punts (Irish
+Republic). Ratings (these ratings do not relate to any particular
+association, and are only a guide to the facilities): *=Stars,
+L=lodge, D=Diamonds, NC=Non Classified<br />
+LateRooms rates are indicated in orange. All prices are inclusive
+of all relevant local taxes. Rates shown are per room per night to
+sleep the number of people indicated. Sleeps 2+1 and 2+2 implies 2
+adults plus 1 or 2 children (aged under 14/16 - check hotel for
+details).<br />
+ </td>
+</tr>
+</table>
+
+<br />
+ </td>
+</tr>
+</table>
+
+<img src="graphics/shim.gif" width="1" height="5" /> 
+
+<table width="100%" cellpadding="0" cellspacing="0">
+<!-- copy at the bottom + other services -->
+<tr>
+<td class="NormalGreen8" bgcolor="#ffffcd"><a id="searchform"
+name="searchform"></a> 
+
+<table width="100%" border="0" cellspacing="0" cellpadding="5"
+bgcolor="#fbf7b7">
+<tr align="center">
+<td><a target="_blank"
+href="http://www.laterooms.com/flights.php3?al2=&amp;d=&amp;b=&amp;n=&amp;xrgn=&amp;xcity=">
+<img
+src="http://www.fworld.net/laterooms/graphics_all/btn_clickflight.gif"
+ width="119" height="80" border="0" /></a></td>
+<td><a target="_blank"
+href="http://www.laterooms.com/onlineincentives.php3"><img
+src="http://www.fworld.net/laterooms/graphics_all/btn_clicktickets.gif"
+ width="119" height="80" border="0" /></a></td>
+<td><a target="_blank"
+href="http://laterooms.europcar.co.uk/specialoffers/partner_laterooms.html">
+<img
+src="http://www.fworld.net/laterooms/graphics_all/btn_clickcar.gif"
+width="119" height="80" border="0" /></a></td>
+<td><a target="_blank"
+href="http://www.easycover.com/form.php3?quoteType=travel&amp;code=&amp;newRequest=true&amp;submittedPage=0">
+<img
+src="http://www.fworld.net/laterooms/graphics_all/btn_clickinsure.gif"
+ width="119" height="80" border="0" /></a></td>
+</tr>
+</table>
+
+<br />
+<br />
+ 
+
+<form name="searcher_new" method="get" action="sr.php3"></form>
+
+<input type="hidden" name="a" value="l" /><input type="hidden"
+name="lang" value="eng" /> 
+
+<table xwidth="100%" border="0" cellspacing="0" cellpadding="2"
+bordercolor="green" align="center" bgcolor="#faf3ab">
+<!-- try these -->
+<tr valign="top">
+<td rowspan="6"><img src="graphics_eng_new/trythese_title.gif"
+width="168" height="20" /><br />
+<a href="sr.php3?a=s&amp;as=s&#9001;=eng&amp;r=1-5"><img
+src="graphics_eng_new/trythese_savers.gif" width="168" height="20"
+border="0" /></a><br />
+<a href="sr.php3?a=s&amp;as=n&#9001;=eng&amp;r=1-5"><img
+src="graphics_eng_new/trythese_new.gif" width="168" height="20"
+border="0" /></a><br />
+<a href="sr.php3?a=s&amp;as=d&#9001;=eng&amp;r=1-5"><img
+src="graphics_eng_new/trythese_deals.gif" width="168" height="20"
+border="0" /></a><br />
+<a href="sr.php3?a=s&amp;as=b&#9001;=eng&amp;r=1-5"><img
+src="graphics_eng_new/trythese_budget.gif" width="168" height="20"
+border="0" /></a><br />
+<a href="sr.php3?a=s&amp;as=p&#9001;=eng&amp;r=1-5"><img
+src="graphics_eng_new/trythese_posh.gif" width="168" height="20"
+border="0" /></a><br />
+<a href="sr.php3?a=s&amp;as=f&#9001;=eng&amp;r=1-5"><img
+src="graphics_eng_new/trythese_disabled.gif" width="168"
+height="20" border="0" /></a><br />
+ </td>
+<td colspan="2" valign="bottom" class="BoldBlue14" align="right">
+SEARCH</td>
+<td colspan="2" valign="bottom" class="NormalBlue14">UK &amp;
+Ireland</td>
+</tr>
+
+<!-- search criteria -->
+<tr>
+<td class="BoldOrange8" align="center">Enter</td>
+<td class="BoldBlue8">TOWN</td>
+<td><input type="text" name="al2" value="Enter a town"
+class="NormalBlue8" onfocus="javascript:this.value=''" /></td>
+<td rowspan="2" align="center" valign="top"><a
+href="javascript:mapOpen('http://www.uk.laterooms.com/graphics/gb_graphics/ukmap.new.php3', '511', '405')">
+<img src="http://www.fworld.net/laterooms/graphics_all/gbmap.gif"
+width="30" height="37" align="left" border="0" /> <b>Click here for
+a map</b></a> </td>
+</tr>
+
+<tr>
+<td class="BoldOrange8" align="center">Or</td>
+<td class="BoldBlue8">REGION</td>
+<td><select name="al1" class="resbody8normal">
+<option value="0" selected="selected">** Select Region **</option>
+<option value="1">[England]</option>
+<option value="104">- Central</option>
+<option value="111">- Central South</option>
+<option value="114">- Channel Isles</option>
+<option value="113">- Cornwall &amp; Scilly</option>
+<option value="115">- Cotswolds</option>
+<option value="112">- Devon</option>
+<option value="105">- East Anglia</option>
+<option value="106">- Heart of England</option>
+<option value="101">- Lake District</option>
+<option value="108">- London - Inner</option>
+<option value="109">- London - Outer</option>
+<option value="100">- North East</option>
+<option value="103">- North West</option>
+<option value="116">- Peak District</option>
+<option value="110">- South East</option>
+<option value="107">- West Country</option>
+<option value="102">- Yorkshire &amp; Dales</option>
+<option value="2">[Scotland]</option>
+<option value="200">- Aberdeen</option>
+<option value="201">- Central &amp; West</option>
+<option value="206">- Edinburgh</option>
+<option value="202">- Glasgow</option>
+<option value="205">- Highlands &amp; Islands</option>
+<option value="204">- North East</option>
+<option value="203">- South &amp; Borders</option>
+<option value="3">[Wales]</option>
+<option value="301">- Mid Wales</option>
+<option value="300">- North Wales</option>
+<option value="302">- South Wales</option>
+<option value="303">- West Wales</option>
+<option value="4">[N. Ireland]</option>
+<option value="401">- Belfast</option>
+<option value="400">- N. Ireland - Other</option>
+<option value="5">[Republic of Ireland]</option>
+<option value="504">- Dublin</option>
+<option value="501">- Midlands East</option>
+<option value="500">- North West</option>
+<option value="503">- Shannon</option>
+<option value="505">- South East</option>
+<option value="506">- South West</option>
+<option value="502">- West</option>
+</select> </td>
+</tr>
+
+<tr>
+<td colspan="2" class="BoldBlue8">ARRIVAL DATE</td>
+<td colspan="2"><select name="d" size="1" class="NormalBlue8">
+<option class="NormalBlue8" value='0' selected="selected">Mon 15
+Oct 2001</option>
+<option class="NormalBlue8" value='1'>Tue 16 Oct 2001</option>
+<option class="NormalBlue8" value='2'>Wed 17 Oct 2001</option>
+<option class="NormalBlue8" value='3'>Thu 18 Oct 2001</option>
+<option class="NormalBlue8" value='4'>Fri 19 Oct 2001</option>
+<option class="NormalBlue8" value='5'>Sat 20 Oct 2001</option>
+<option class="NormalBlue8" value='6'>Sun 21 Oct 2001</option>
+<option class="NormalBlue8" value='7'>Mon 22 Oct 2001</option>
+<option class="NormalBlue8" value='8'>Tue 23 Oct 2001</option>
+<option class="NormalBlue8" value='9'>Wed 24 Oct 2001</option>
+<option class="NormalBlue8" value='10'>Thu 25 Oct 2001</option>
+<option class="NormalBlue8" value='11'>Fri 26 Oct 2001</option>
+<option class="NormalBlue8" value='12'>Sat 27 Oct 2001</option>
+<option class="NormalBlue8" value='13'>Sun 28 Oct 2001</option>
+<option class="NormalBlue8" value='14'>Mon 29 Oct 2001</option>
+<option class="NormalBlue8" value='15'>Tue 30 Oct 2001</option>
+<option class="NormalBlue8" value='16'>Wed 31 Oct 2001</option>
+<option class="NormalBlue8" value='17'>Thu 1 Nov 2001</option>
+<option class="NormalBlue8" value='18'>Fri 2 Nov 2001</option>
+<option class="NormalBlue8" value='19'>Sat 3 Nov 2001</option>
+<option class="NormalBlue8" value='20'>Sun 4 Nov 2001</option>
+</select> </td>
+</tr>
+
+<tr>
+<td colspan="2" class="BoldBlue8">NO. OF NIGHTS</td>
+<td colspan="2"><select name="n" size="1" class="NormalBlue8">
+<option class="NormalBlue8" value="1">1 night</option>
+<option value="2">2 nights</option>
+<option value="3">3 nights</option>
+<option value="4">4 nights</option>
+<option value="5">5 nights</option>
+<option value="6">6 nights</option>
+<option value="7">7 nights</option>
+</select> </td>
+</tr>
+
+<tr>
+<td colspan="2" class="BoldBlue8">ROOM TO SLEEP</td>
+<td colspan="2">
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td><select size="1" name="b" class="NormalBlue8">
+<option value="1">1 person</option>
+<option value="2">2 people</option>
+<option value="3">2 + 1 child</option>
+<option value="4">2 + 2 children</option>
+<option value="5">3+ adults</option>
+</select> </td>
+<td align="right"><a
+href="Javascript:document.searcher_new.submit()"><img
+src="graphics_eng_new/btn_search.gif" width="97" height="27"
+border="0" /></a> </td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<p>Information which you supply whilst using this website may be
+held in our computer records.<br />
+It may be used to offer you new services (by post, telephone,
+e-mail or fax) which we think might be of interest to you.<br />
+If you do not want your information to be used for marketing
+purposes please inform us in writing at: LateRooms.com, 247 Chapel
+St, Manchester, M3 5EP, UK; or by email at
+remove@laterooms.com.</p>
+</td>
+</tr>
+</table>
+</td>
+<td align="center">
+<form action="http://www.laterooms.com/mail1.php3"><input
+type="Hidden" name="lang" value="eng" /> <input type="Hidden"
+name="country" value="1-5" /> <input type="Hidden" name="origin"
+value="deals_simple" /> 
+<!--a href="http://www.laterooms.com"><img src="http://www.laterooms.com/graphics_eng/rightmenu1_global.gif" border=0></a><br-->
+ 
+<!--a href="http://www.laterooms.com/employment.html"><img src="http://www.laterooms.com/graphics/employmnt.gif" width="120" height="70" border="0"></a-->
+ <a target="new"
+href="http://vic.nation-net.com/phpAds/click.php3?bannerID=346"><img
+ src="http://vic.nation-net.com/phpAds/banners/ECpanel.gif"
+width="120" height="120" alt="" border="0" /></a><br />
+<br />
+<a target="new"
+href="http://www.laterooms.com/redirect_general.php3?flag=holprops&amp;which_ctry=1-5">
+<img src="http://www.laterooms.com/graphics_eng/hol_props.gif"
+border="0" /></a><br />
+<br />
+<!-- temporarily, replace the 'Deals by Email' gif with the form below
+<img src='http://www.laterooms.com/graphics_eng/rightmenu3.gif' usemap="#subscribe" border=0 width=131 height=80 alt=""><br-->
+<table align="center" width="122" cellpadding="0" cellspacing="0">
+<tr>
+<td><img
+src="http://www.laterooms.com/graphics_eng/rightmenu3_form.gif"
+width="122" height="55" /></td>
+</tr>
+
+<tr>
+<td align="center" bgcolor="#efe1b4" class="resbody8">Your email
+:<br />
+ <input type="text" name="deals_email" size="10" /><br />
+ <input type="Submit" name="SubmitDeals" value="Submit" /><br />
+ </td>
+</tr>
+</table>
+
+<br />
+<a href="#"
+onclick="window.open('http://www.laterooms.com/telegraph/jurys.html','specialWin','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=660,align=center,screenX=100,screenY=100,left=100,top=0'); return false;">
+<img
+src="http://www.laterooms.com/telegraph/graphics/jurys_panel.gif"
+border="0" width="120" height="92" /></a><br />
+<br />
+<a target="new"
+href="http://vic.nation-net.com/phpAds/click.php3?bannerID=367"><img
+ src="http://vic.nation-net.com/phpAds/banners/old_english_panel.gif"
+ width="120" height="120" alt="" border="0" /></a><br />
+<br />
+<a target="new"
+href="http://vic.nation-net.com/phpAds/click.php3?bannerID=365"><img
+ src="http://vic.nation-net.com/phpAds/banners/london_panel.gif"
+width="120" height="120" alt="" border="0" /></a><br />
+<br />
+ <a href="#"
+onclick="window.open('http://www.laterooms.com/special_deals.php3','specialWin','toolbar=yes,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=635,align=center,screenX=100,screenY=100,left=100,top=0'); return false;">
+<img src="http://www.laterooms.com/graphics/Autumndeals_panel.gif"
+border="0" width="122" height="82" /></a><br />
+<br />
+ <a href="#"
+onclick="window.open('http://www.laterooms.com/currency.php3?lang=eng','currencyWin','toolbar=yes,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=670,height=280,align=center,screenX=100,screenY=100,left=100,top=100'); return false;">
+<img src="http://www.laterooms.com/graphics_eng/curr_conv.gif"
+border="0" width="131" height="60" /></a> 
+<!--hotel_uses.inc.php3 dynamic content-->
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img src="/graphics_eng/rightmenu4_1-5.gif" usemap="#specials"
+border="0" width="131" height="117" alt="" /><br />
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="117"
+bgcolor="#D0E0C8"><!--
+            a:active  {text-decoration:underline; font-size: 11px; color:blue; font-weight:bold; font-family:Verdana,Helvetica,Arial,sans-serif}
+            a:visited {text-decoration:underline; font-size: 11px; color:gray; font-weight:bold; font-family:Verdana,Helvetica,Arial,sans-serif}
+            a:hover   {text-decoration:underline; font-size: 11px; color:green; font-weight:bold; font-family:Verdana,Helvetica,Arial,sans-serif}
+            a:link    {text-decoration:underline; font-size: 11px; color:black; font-weight:bold; font-family:Verdana,Helvetica,Arial,sans-serif}
+        -->
+<tr>
+<td align="center"><span class="resheadnew"><b><img
+src='/graphics/rightmenu-line.gif' width="117" border="0" /><br />
+<a href="/sr.php3?a=p&amp;ap=14&amp;b=2&#9001;=eng&amp;r=1-5"
+class="c2" alt="Airport Hotel">Airport Hotel</a><br />
+<img src='/graphics/rightmenu-line.gif' width="117"
+border="0" /><br />
+<a href="/sr.php3?a=p&amp;ap=152&amp;b=2&#9001;=eng&amp;r=1-5"
+class="c2" alt="Apartment Hotel">Apartment Hotel</a><br />
+<img src='/graphics/rightmenu-line.gif' width="117"
+border="0" /><br />
+<a href="/sr.php3?a=p&amp;ap=5&amp;b=2&#9001;=eng&amp;r=1-5"
+class="c2" alt="Bed and Breakfast">Bed and Breakfast</a><br />
+<img src='/graphics/rightmenu-line.gif' width="117"
+border="0" /><br />
+<a href="/sr.php3?a=p&amp;ap=150&amp;b=2&#9001;=eng&amp;r=1-5"
+class="c2" alt="Boutique Hotel">Boutique Hotel</a><br />
+<img src='/graphics/rightmenu-line.gif' width="117"
+border="0" /><br />
+<a href="/sr.php3?a=p&amp;ap=13&amp;b=2&#9001;=eng&amp;r=1-5"
+class="c2" alt="Child friendly">Child friendly</a><br />
+<img src='/graphics/rightmenu-line.gif' width="117"
+border="0" /><br />
+<a href="/sr.php3?a=p&amp;ap=4&amp;b=2&#9001;=eng&amp;r=1-5"
+class="c2" alt="City Break">City Break</a><br />
+<img src='/graphics/rightmenu-line.gif' width="117"
+border="0" /><br />
+<a href="/sr.php3?a=p&amp;ap=3&amp;b=2&#9001;=eng&amp;r=1-5"
+class="c2" alt="Country House">Country House</a><br />
+<img src='/graphics/rightmenu-line.gif' width="117"
+border="0" /><br />
+<a href="/sr.php3?a=p&amp;ap=7&amp;b=2&#9001;=eng&amp;r=1-5"
+class="c2" alt="Country Pursuits">Country Pursuits</a><br />
+<img src='/graphics/rightmenu-line.gif' width="117"
+border="0" /><br />
+<a href="/sr.php3?a=p&amp;ap=10&amp;b=2&#9001;=eng&amp;r=1-5"
+class="c2" alt="Family run">Family run</a><br />
+<img src='/graphics/rightmenu-line.gif' width="117"
+border="0" /><br />
+<a href="/sr.php3?a=p&amp;ap=151&amp;b=2&#9001;=eng&amp;r=1-5"
+class="c2" alt="Farmhouse">Farmhouse</a><br />
+<img src='/graphics/rightmenu-line.gif' width="117"
+border="0" /><br />
+<a href="/sr.php3?a=p&amp;ap=15&amp;b=2&#9001;=eng&amp;r=1-5"
+class="c2" alt="Golfing Hotel">Golfing Hotel</a><br />
+<img src='/graphics/rightmenu-line.gif' width="117"
+border="0" /><br />
+<a href="/sr.php3?a=p&amp;ap=1&amp;b=2&#9001;=eng&amp;r=1-5"
+class="c2" alt="Hidden Gems">Hidden Gems</a><br />
+<img src='/graphics/rightmenu-line.gif' width="117"
+border="0" /><br />
+<a href="/sr.php3?a=p&amp;ap=6&amp;b=2&#9001;=eng&amp;r=1-5"
+class="c2" alt="Leisure Hotel">Leisure Hotel</a><br />
+<img src='/graphics/rightmenu-line.gif' width="117"
+border="0" /><br />
+<a href="/sr.php3?a=p&amp;ap=8&amp;b=2&#9001;=eng&amp;r=1-5"
+class="c2" alt="Lodge">Lodge</a><br />
+<img src='/graphics/rightmenu-line.gif' width="117"
+border="0" /><br />
+<a href="/sr.php3?a=p&amp;ap=11&amp;b=2&#9001;=eng&amp;r=1-5"
+class="c2" alt="Out of the Way">Out of the Way</a><br />
+<img src='/graphics/rightmenu-line.gif' width="117"
+border="0" /><br />
+<a href="/sr.php3?a=p&amp;ap=12&amp;b=2&#9001;=eng&amp;r=1-5"
+class="c2" alt="Seaside Resort">Seaside Resort</a><br />
+<img src='/graphics/rightmenu-line.gif' width="117"
+border="0" /><br />
+<a href="/sr.php3?a=p&amp;ap=2&amp;b=2&#9001;=eng&amp;r=1-5"
+class="c2" alt="Traditional Inns">Traditional Inns</a><br />
+<img src='/graphics/rightmenu-line.gif' width="117"
+border="0" /><br />
+<a href="/sr.php3?a=p&amp;ap=9&amp;b=2&#9001;=eng&amp;r=1-5"
+class="c2" alt="Walking/Rambling">Walking/Rambling</a><br />
+</b></span> </td>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr>
+<td><img src="/graphics/rightmenu5.gif" border="0" /><br />
+</td>
+</tr>
+</table>
+
+<map id="specials" name="specials">
+<area shape="rect" coords="25,8,107,20"
+href='/sr.php3?a=s&amp;as=s&amp;b=2&amp;r=1-5&#9001;=eng' />
+<area shape="rect" coords="25,21,107,32"
+href='/sr.php3?a=s&amp;as=n&amp;b=2&amp;r=1-5&#9001;=eng' />
+<area shape="rect" coords="25,33,107,44"
+href='/sr.php3?a=s&amp;as=d&amp;b=2&amp;r=1-5&#9001;=eng' />
+<area shape="rect" coords="25,45,107,56"
+href='/sr.php3?a=s&amp;as=b&amp;b=2&amp;r=1-5&#9001;=eng' />
+</map> <!--END hotel_uses.inc.php3 dynamic content-->
+<map id="xxx" name="xxx">
+<area shape="rect" coords="5,-1,122,24" href="/?lang=eng" />
+</map><br />
+<map id="friend" name="friend">
+<area shape="rect" coords='20,105,110,155'
+href='/eaf.php3?lang=eng' />
+</map> <map id="subscribe" name="subscribe">
+<area shape="rect" coords="15,55,115,75"
+href='/deals.php3?lang=eng' />
+</map><br />
+</form>
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+<p>&#160;</p>
+
+<a href='/en/region1.html'>England</a> | <a
+href='/en/region111.html'>Central South</a> | <a
+href='/en/region114.html'>Channel Isles</a> | <a
+href='/en/region113.html'>Cornwall &amp; Scilly</a> | <a
+href='/en/region115.html'>Cotswolds</a> | <a
+href='/en/region112.html'>Devon</a> | <a
+href='/en/region105.html'>East Anglia</a> | <a
+href='/en/region106.html'>Heart of England</a> | <a
+href='/en/region101.html'>Lake District</a> | <a
+href='/en/region108.html'>London - Inner</a> | <a
+href='/en/region109.html'>London - Outer</a> | <a
+href='/en/region100.html'>North East</a> | <a
+href='/en/region103.html'>North West</a> | <a
+href='/en/region116.html'>Peak District</a> | <a
+href='/en/region110.html'>South East</a> | <a
+href='/en/region107.html'>West Country</a> | <a
+href='/en/region102.html'>Yorkshire &amp; Dales</a> | <a
+href='/en/region2.html'>Scotland</a> | <a
+href='/en/region201.html'>Central &amp; West</a> | <a
+href='/en/region206.html'>Edinburgh</a> | <a
+href='/en/region202.html'>Glasgow</a> | <a
+href='/en/region205.html'>Highlands &amp; Islands</a> | <a
+href='/en/region204.html'>North East</a> | <a
+href='/en/region203.html'>South &amp; Borders</a> | <a
+href='/en/region3.html'>Wales</a> | <a
+href='/en/region300.html'>North Wales</a> | <a
+href='/en/region302.html'>South Wales</a> | <a
+href='/en/region303.html'>West Wales</a> | <a
+href='/en/region4.html'>N. Ireland</a> | <a
+href='/en/region400.html'>N. Ireland - Other</a> | <a
+href='/en/region5.html'>Republic of Ireland</a> | <a
+href='/en/region501.html'>Midlands East</a> | <a
+href='/en/region500.html'>North West</a> | <a
+href='/en/region503.html'>Shannon</a> | <a
+href='/en/region505.html'>South East</a> | <a
+href='/en/region506.html'>South West</a> | <a
+href='/en/region502.html'>West</a> |</td>
+</tr>
+</table>
+</body>
+</html>
+

@@ -1,0 +1,483 @@
+<?xml version="1.0"?>
+<html>
+  <body>
+    <div>
+      <table border="0" cellpadding="4" cellspacing="4" width="595" bordercolorlight="#C0C0C0" bordercolordark="#808080" frame="BOX" rules="ALL" align="BOTTOM" hspace="0" vspace="0">
+        <tr>
+          <td valign="CENTER" height="19" width="52"><img border="0" src="1x1.gif" height="19" align="bottom" width="52" hspace="0" vspace="0" /></td>
+
+          <td valign="CENTER" bgcolor="#993333" width="491">
+            <div class="c13">
+              danbricklin.com/log
+            </div>
+          </td>
+
+          <td valign="CENTER" width="12"><img border="0" src="1x1.gif" height="19" align="bottom" width="12" hspace="0" vspace="0" /></td>
+        </tr>
+
+        <tr>
+          <td valign="TOP" rowspan="3" bgcolor="#CCCC66" height="163" width="52">
+            <div>
+              <a href="default.htm" target="_top" title="Dan Bricklin Log"><u>Dan's Log Home</u></a>
+            </div>
+
+            <div>
+              <img border="0" src="1x1.gif" height="8" align="bottom" width="1" hspace="0" vspace="0" />
+            </div>
+
+            <div>
+              <a href="archive.htm" target="_top" title="Archive"><u>Archive</u></a>
+            </div>
+
+            <div>
+              <img border="0" src="1x1.gif" height="8" align="bottom" width="1" hspace="0" vspace="0" />
+            </div>
+            <br />
+          </td>
+
+          <td valign="TOP" bgcolor="#CCCC99" width="491">
+            <div class="c14">
+              Starting July 22, 2001
+            </div>
+
+            <div class="c15">
+              802.11b at a coffee shop near you, I posted my album on the anniversary, The event was really cool, Thoughts on the 20th anniversary of the IBM PC announcement, Happy Birthday, Sarah!, Transcript of the August 12, 1981 staff meeting, My report from the Internet Summit 2001, In the middle of the conference, Internet Summit 2001, CTO Forum Webcast
+            </div>
+
+            <div class="c16">
+              22Jul01-14Aug01
+            </div>
+
+            <div class="c16">
+              2001_07_22.htm
+            </div>
+
+            <div>
+              <a href="2001_08_21.htm" target="_top" title="Starting August 21, 2001"><u>&lt; Newer</u></a> <a href="2001_07_10.htm" target="_top" title="Starting July 10, 2001"><u>Older &gt;</u></a>
+            </div>
+          </td>
+
+          <td valign="TOP" width="12"><img border="0" src="1x1.gif" height="163" align="bottom" width="12" hspace="0" vspace="0" /></td>
+        </tr>
+
+        <tr>
+          <td valign="TOP" width="491">
+            <div class="c17">
+              Tuesday, August 14, 2001
+            </div>
+
+            <div>
+              <img border="0" src="1x1.gif" height="8" align="bottom" width="1" hspace="0" vspace="0" />
+            </div>
+
+            <div class="c14">
+              802.11b at a coffee shop near you
+            </div>
+
+            <div>
+              <img border="0" src="1x1.gif" height="6" align="bottom" width="1" hspace="0" vspace="0" />
+            </div>
+
+            <div>
+              In response to my mention of <i>Surf and Sip</i> 802.11b Internet access in a small coffee shop on the <a href="http://www.bricklin.com/albums/ibmpc20th/nextday.htm" target="_top" title="http://www.bricklin.com/albums/ibmpc20th"><u>last page</u></a> of my 20th Anniversary Celebration album, I've been trading email with <a href="http://www.surfandsip.com/" target="_top" title="http://www.surfandsip.com/"><u><i><b>Surf and Sip</b></i></u></a> <b>president, Rick Ehrlinspiel</b>. He's really excited by local 802.11b, and has <b>signed up 70 shops so far</b>, using what sounds like a conservative (as opposed to pre-bubble) financing style. He can do this because <b>802.11b seems to meet a real need for people and is financially viable for the coffee shops</b>. It is used despite well-known problems (e.g., need to buy additional hardware, security issues, etc.). <b>Many other more-hyped technologies have not yet reached this point (if they ever will).</b>
+            </div>
+            <br />
+
+            <div>
+              The shops end up with 802.11b Internet connectivity to customers' laptops as well as some on-location rental machines. Quite a few people sit for more than a quick stop each day in each of their licensees. I think the fact you can use their machine the first time helps. Why play a video game for 50 cents every few minutes when you can catch up on email, IM, or whatever for about the same ($5-10/hour)? (Actually, they don't charge for your machine, yet, and are still seeing cash-flow.) <b>Unlike the Internet cafes frequented by travelers, the capital requirements here are much lower because people mainly bring their own machines.</b> As Bill Gurley <a href="http://www.bricklin.com/albums/internetsummit2001/latertuesday.htm" target="_top" title="http://www.bricklin.com/albums/internets"><u>pointed out</u></a> at the Internet Summit a few weeks ago, <b>this is a real grassroots, small business thing.</b> Very much like the early post-Netscape 1.0 Internet. Rick's asked me for the names of appropriate shops in Boston to approach. (Do you know which to recommend? He has a "Contact Us" page on his web site...)
+            </div>
+            <br />
+
+            <div>
+              <img src="64b7d800.jpg" border="0" width="125" height="128" alt="Small coffee shop next to Subway sub shop" align="BOTTOM" hspace="0" vspace="0" /> <img src="65165800.jpg" border="0" width="101" height="128" alt="Internet Inside sign in purple" align="BOTTOM" hspace="0" vspace="0" />  <img src="64f75800.jpg" border="0" width="117" height="128" alt="Green Apple laptop on counter" align="BOTTOM" hspace="0" vspace="0" />
+            </div>
+
+            <div class="c18">
+              Coffee shop in San Mateo, Surf and Sip sign, "loaner" laptop with 802.11b
+            </div>
+
+            <div>
+              <img border="0" src="1x1.gif" height="8" align="bottom" width="1" hspace="0" vspace="0" />
+            </div>
+            <br />
+
+            <div class="c17">
+              Sunday, August 12, 2001
+            </div>
+
+            <div>
+              <img border="0" src="1x1.gif" height="8" align="bottom" width="1" hspace="0" vspace="0" />
+            </div>
+
+            <div class="c14">
+              I posted my album on the anniversary
+            </div>
+
+            <div>
+              <img border="0" src="1x1.gif" height="6" align="bottom" width="1" hspace="0" vspace="0" />
+            </div>
+
+            <div>
+              "It was twenty years ago today..." This is the day. The real 20th anniversary of the IBM PC announcement. To get in the mood, you can read my transcript of <a href="http://www.bricklin.com/ibmpcannouncement1981.htm" target="_top" title="http://www.bricklin.com/ibmpcannouncemen"><u>our staff meeting</u></a> at Software Arts that day.
+            </div>
+            <br />
+
+            <div>
+              <b>I've posted an album with pictures</b> from an event last Wednesday night celebrating the 20 years. Enjoy!
+            </div>
+            <br />
+
+            <div>
+              <b>Read "</b><a href="http://www.bricklin.com/albums/ibmpc20th/" target="_top" title="http://www.bricklin.com/albums/ibmpc20th"><u><b>Celebration of the 20th Anniversary of the IBM PC Announcement</b></u></a><b>".</b>
+            </div>
+            <br />
+
+            <div class="c17">
+              Wednesday, August 8, 2001
+            </div>
+
+            <div>
+              <img border="0" src="1x1.gif" height="8" align="bottom" width="1" hspace="0" vspace="0" />
+            </div>
+
+            <div class="c14">
+              The event was really cool
+            </div>
+
+            <div>
+              <img border="0" src="1x1.gif" height="6" align="bottom" width="1" hspace="0" vspace="0" />
+            </div>
+
+            <div>
+              I just got back to my hotel room from the celebration. A really fun night. It was a real honor to be on the panel. I assume, given the number of press, that there will be lots of coverage by the time you read this. Here's a couple of pictures until I have time to start doing a little album on the flight back (I'll probably post it by Monday night):
+            </div>
+            <br />
+
+            <div>
+              <img src="6447ad20.jpg" border="0" width="378" height="210" alt="Lots of guys sitting in chairs looking to the side towards the camera" align="BOTTOM" hspace="0" vspace="0" />
+            </div>
+
+            <div class="c18">
+              My view on the panel discussion: Ray Ozzie (Notes), Mitch Kapor (1-2-3), Andy Grove (Intel), Bill Gates (Microsoft), Brent Schlender (Fortune/WSJ), Rod Canion (Compaq), David Bunnell (PC Mag/PC World)
+            </div>
+
+            <div>
+              <img border="0" src="1x1.gif" height="8" align="bottom" width="1" hspace="0" vspace="0" />
+            </div>
+            <br />
+
+            <div>
+              <img src="6464f790.jpg" border="0" width="79" height="121" alt="Smiling guy with mustache and glasses, tie and jacket" align="BOTTOM" hspace="0" vspace="0" />  <img src="6499c790.jpg" border="0" width="156" height="121" alt="Row of 4 or 5 TV cameras on tripods seen through a glass door" align="BOTTOM" hspace="0" vspace="0" />
+            </div>
+
+            <div class="c18">
+              Other panelist Dave Bradley (BIOS), TV cameras awaiting Bill &amp; Andy's official entrance
+            </div>
+
+            <div>
+              <img border="0" src="1x1.gif" height="8" align="bottom" width="1" hspace="0" vspace="0" />
+            </div>
+            <br />
+
+            <div class="c17">
+              Friday, August 3, 2001
+            </div>
+
+            <div>
+              <img border="0" src="1x1.gif" height="8" align="bottom" width="1" hspace="0" vspace="0" />
+            </div>
+
+            <div class="c14">
+              Thoughts on the 20th anniversary of the IBM PC announcement
+            </div>
+
+            <div>
+              <img border="0" src="1x1.gif" height="6" align="bottom" width="1" hspace="0" vspace="0" />
+            </div>
+
+            <div>
+              As part of a celebration of the 20th anniversary of the announcement of the IBM PC, Bill Gates and Andy Grove are hosting an event. I'll be attending and will try to file a report afterwards. They have asked many people to attend and contribute thoughts about the past and future of the PC. I've posted some of my thoughts.
+            </div>
+            <br />
+
+            <div>
+              <b>Read "</b><a href="http://www.bricklin.com/ibmpc20thoughts.htm" target="_top" title="http://www.bricklin.com/ibmpc20thoughts."><u><b>Thoughts on the 20th Anniversary of the IBM PC</b></u></a><b>".</b>
+            </div>
+            <br />
+
+            <div>
+              <img src="63e6a2e0.jpg" border="0" width="106" height="46" alt="22 Oct 80" align="BOTTOM" hspace="0" vspace="0" />
+            </div>
+
+            <div>
+              <img src="640632d0.jpg" border="0" width="355" height="45" alt="Confidential - ISD - IBM interested (maybe)" align="BOTTOM" hspace="0" vspace="0" />
+            </div>
+
+            <div>
+              <img src="64246330.jpg" border="0" width="326" height="51" alt="15 Dec 80 - meeting in Boca Raton" align="BOTTOM" hspace="0" vspace="0" />
+            </div>
+
+            <div class="c18">
+              Some entries from my notebook: first hearing from IBM October 22, 1980, and meeting in Boca Raton, Florida December 15, 1980
+            </div>
+
+            <div>
+              <img border="0" src="1x1.gif" height="8" align="bottom" width="1" hspace="0" vspace="0" />
+            </div>
+            <br />
+
+            <div class="c14">
+              Happy Birthday, Sarah!
+            </div>
+
+            <div>
+              <img border="0" src="1x1.gif" height="6" align="bottom" width="1" hspace="0" vspace="0" />
+            </div>
+
+            <div>
+              Today is my sister's birthday. Happy Birthday!
+            </div>
+            <br />
+
+            <div class="c17">
+              Wednesday, August 1, 2001
+            </div>
+
+            <div>
+              <img border="0" src="1x1.gif" height="8" align="bottom" width="1" hspace="0" vspace="0" />
+            </div>
+
+            <div class="c14">
+              Transcript of the August 12, 1981 staff meeting
+            </div>
+
+            <div>
+              <img border="0" src="1x1.gif" height="6" align="bottom" width="1" hspace="0" vspace="0" />
+            </div>
+
+            <div>
+              On August 12, 1981, <b>the day the IBM PC was announced</b>, VisiCalc's developers, Software Arts, held a staff meeting to go over what was happening. Like most of our full staff meetings, it was videotaped with home video equipment so employees that missed it could watch it later. Little did we realize that <b>a segment of this tape would appear as part of PBS's</b> <a href="http://www.pbs.org/nerds/" target="_top" title="http://www.pbs.org/nerds/"><u><b>Triumph of the Nerds</b></u></a> TV documentary 15 years later. PBS people told me that at the time they put the show together it was the only appropriate video they could find from that day.
+            </div>
+            <br />
+
+            <div>
+              As part of the many things happening to commemorate the IBM PC anniversary, <b>I've made a transcript of the entire part of the meeting devoted to the IBM PC and posted it on my web site.</b> It includes me reading the press release and other material from IBM. <b>I find it quite interesting to hear what a software developer thought at that moment.</b> It is strange 20 years later to listen to me say, commenting on the fact we were taping it, "This is so that if you miss it, you can hear it again later" followed by laughter implying "Why would we want to?" The lack of attention to the operating system (Microsoft's) and microprocessor (Intel's) in all the material is also quite interesting.
+            </div>
+            <br />
+
+            <div>
+              <b>Read "</b><a href="http://www.bricklin.com/ibmpcannouncement1981.htm" target="_top" title="http://www.bricklin.com/ibmpcannouncemen"><u><b>IBM PC Announcement 1981</b></u></a><b>".</b>
+            </div>
+            <br />
+
+            <div>
+              Here are some pictures:
+            </div>
+            <br />
+
+            <div>
+              <img src="632ad610.jpg" border="0" width="173" height="97" alt="Tape label: Video cassette - SAI Staff August 12, 1981" align="BOTTOM" hspace="0" vspace="0" />  <img src="634b6610.jpg" border="0" width="182" height="97" alt="Dan in green shirt in front of computer with others around" align="BOTTOM" hspace="0" vspace="0" />
+            </div>
+
+            <div class="c18">
+              The original tape of the meeting, in front of the staff
+            </div>
+
+            <div>
+              <img border="0" src="1x1.gif" height="8" align="bottom" width="1" hspace="0" vspace="0" />
+            </div>
+            <br />
+
+            <div>
+              <img src="636cd8b0.jpg" border="0" width="205" height="139" alt="Julian in suit, Bob looking at sheet with Dan" align="BOTTOM" hspace="0" vspace="0" />  <img src="6386b890.jpg" border="0" width="107" height="137" alt="Dan holding up color brochure smiling" align="BOTTOM" hspace="0" vspace="0" />
+            </div>
+
+            <div class="c18">
+              Software Arts senior execs Julian Lange, Bob Frankston, and Dan (yes, that's a big magnetic tape drive behind us, like in the movies); holding up the IBM "Hardware" brochure
+            </div>
+
+            <div>
+              <img border="0" src="1x1.gif" height="8" align="bottom" width="1" hspace="0" vspace="0" />
+            </div>
+            <br />
+
+            <div class="c17">
+              Friday, July 27, 2001
+            </div>
+
+            <div>
+              <img border="0" src="1x1.gif" height="8" align="bottom" width="1" hspace="0" vspace="0" />
+            </div>
+
+            <div class="c14">
+              My report from the Internet Summit 2001
+            </div>
+
+            <div>
+              <img border="0" src="1x1.gif" height="6" align="bottom" width="1" hspace="0" vspace="0" />
+            </div>
+
+            <div>
+              I had a couple of plane rides so I had time to do a report of what I saw and a little of what I heard at the conference. Lots of pictures, with reports about what a few of the speakers said.
+            </div>
+            <br />
+
+            <div>
+              <b>Read my</b> <a href="http://www.bricklin.com/albums/internetsummit2001/" target="_top" title="http://www.bricklin.com/albums/internets"><u><b>Internet Summit 2001 Album</b></u></a><b>.</b>
+            </div>
+            <br />
+
+            <div>
+              <img src="62ec8780.jpg" border="0" width="200" height="120" alt="People standing around a fountain with buffet" align="BOTTOM" hspace="0" vspace="0" />  <img src="630ad780.jpg" border="0" width="173" height="120" alt="Steve projected on a screen with hands raised" align="BOTTOM" hspace="0" vspace="0" />
+            </div>
+
+            <div class="c18">
+              Dinner outside Monday night, Steve Ballmer speaking
+            </div>
+
+            <div>
+              <img border="0" src="1x1.gif" height="8" align="bottom" width="1" hspace="0" vspace="0" />
+            </div>
+            <br />
+
+            <div class="c17">
+              Tuesday, July 24, 2001
+            </div>
+
+            <div>
+              <img border="0" src="1x1.gif" height="8" align="bottom" width="1" hspace="0" vspace="0" />
+            </div>
+
+            <div class="c14">
+              In the middle of the conference
+            </div>
+
+            <div>
+              <img border="0" src="1x1.gif" height="6" align="bottom" width="1" hspace="0" vspace="0" />
+            </div>
+
+            <div>
+              Sitting here with my laptop on my lap (there are chairs without tables in front of them), I've just got to do something on the fly. Here are some pictures:
+            </div>
+            <br />
+
+            <div>
+              <img src="626fb710.jpg" border="0" width="251" height="113" alt="Three smiling faces" align="BOTTOM" hspace="0" vspace="0" />
+            </div>
+
+            <div class="c18">
+              Three speakers: John Doerr of Kleiner Perkins, Meg Whitman of eBay, Scott McNealy of Sun
+            </div>
+
+            <div>
+              <img border="0" src="1x1.gif" height="8" align="bottom" width="1" hspace="0" vspace="0" />
+            </div>
+
+            <div>
+              Scott McNealy of Sun is a very skilled deliverer of comic lines. He devoted a bit of his talk to knocking IBM, and an enormous amount knocking Microsoft, as <a href="http://news.cnet.com/news/0-1003-200-6651773.html" target="_top" title="http://news.cnet.com/news/0-1003-200-665"><u>reported</u></a> on CNet (you can also read <a href="http://www.thestandard.com/special/reports/0,1998,1327,00.html" target="_top" title="http://www.thestandard.com/special/repor"><u>coverage</u></a> on the Industry Standard's web site).
+            </div>
+            <br />
+
+            <div>
+              <img src="62a66770.jpg" border="0" width="102" height="119" alt="Scott behind a device to show what he writes using video" align="BOTTOM" hspace="0" vspace="0" />  <img src="62897780.jpg" border="0" width="151" height="120" alt="Hand writing with a pen seen from above" align="BOTTOM" hspace="0" vspace="0" />
+            </div>
+
+            <div class="c18">
+              Scott doesn't use Microsoft Powerpoint, so he draws his slide live (Walt Mossberg used the same setup to show phone/PDA combos)
+            </div>
+
+            <div>
+              <img border="0" src="1x1.gif" height="8" align="bottom" width="1" hspace="0" vspace="0" />
+            </div>
+
+            <div>
+              At the conference: Waiting for new killer apps to get things going again, lots of reality from analysts, numbers, "who knows when things will get better?"
+            </div>
+            <br />
+
+            <div>
+              As I post this (over 802.11b) Bill Gurley is explaining the 802.11 market and singing its praise. He sees it as a potential threat to 3G cellular. "Dan Benton said this morning that after Napster we need a new killer application. I believe 802.11 is it," he says.
+            </div>
+            <br />
+
+            <div>
+              <img src="62c698b0.jpg" border="0" width="105" height="139" alt="Bill with black sling on right arm (he is right handed)" align="BOTTOM" hspace="0" vspace="0" />
+            </div>
+
+            <div class="c18">
+              Conference co-host Bill Gurley holding two wireless cards (his arm is in a sling while recovering from an accident)
+            </div>
+
+            <div>
+              <img border="0" src="1x1.gif" height="8" align="bottom" width="1" hspace="0" vspace="0" />
+            </div>
+            <br />
+
+            <div class="c17">
+              Sunday, July 22, 2001
+            </div>
+
+            <div>
+              <img border="0" src="1x1.gif" height="8" align="bottom" width="1" hspace="0" vspace="0" />
+            </div>
+
+            <div class="c14">
+              Internet Summit 2001
+            </div>
+
+            <div>
+              <img border="0" src="1x1.gif" height="6" align="bottom" width="1" hspace="0" vspace="0" />
+            </div>
+
+            <div>
+              I'm attending the <a href="http://www.thestandard.com/conferences/overview/0,1928,41,00.html" target="_top" title="http://www.thestandard.com/conferences/o"><u>Internet Summit 2001</u></a> this week, hosted by Bill Gurley and Mary Meeker. Lots of big name speakers, like the heads of Microsoft, Compaq, eBay, Yahoo!, Sun, etc.
+            </div>
+            <br />
+
+            <div>
+              They have an 802.11b network, so I might be tempted to post instead of listening during the seesions, but I hope to do most of my writing <i>after</i> it's over. We'll see.
+            </div>
+            <br />
+
+            <div class="c14">
+              CTO Forum Webcast
+            </div>
+
+            <div>
+              <img border="0" src="1x1.gif" height="6" align="bottom" width="1" hspace="0" vspace="0" />
+            </div>
+
+            <div>
+              You can see webcasts of some of the speeches at the <i>Infoworld CTO Forum 2001</i>, including the one on Peer-to-Peer I participated in, by looking at the <a href="http://www.infoworld.com/webcast/t_index.html" target="_top" title="http://www.infoworld.com/webcast/t_index"><u>webcasts page</u></a> of the Infoworld web site. I never got around to finishing my write-up of Ballmer's talk, but you can watch it there, too.
+            </div>
+            <br />
+          </td>
+
+          <td valign="TOP" bgcolor="#CCCC99" width="12"><img border="0" src="1x1.gif" height="4079" align="bottom" width="12" hspace="0" vspace="0" /></td>
+        </tr>
+
+        <tr>
+          <td valign="TOP" colspan="2" bgcolor="#CCCC99" width="509">
+            <div>
+              <a href="archive.htm" target="_top" title="Archive"><u>Archive</u></a>   <a href="default.htm" target="_top" title="Dan Bricklin Log"><u>Home</u></a>   <a href="2001_08_21.htm" target="_top" title="Starting August 21, 2001"><u>Newer</u></a>   <a href="2001_07_10.htm" target="_top" title="Starting July 10, 2001"><u>Older</u></a>
+            </div>
+
+            <div>
+              Copyright 1999-2001 by Daniel Bricklin
+            </div>
+
+            <div>
+              All Rights Reserved.
+            </div>
+          </td>
+        </tr>
+      </table>
+    </div>
+
+    <div>
+      <img border="0" src="1x1.gif" height="1" align="bottom" width="1" hspace="0" vspace="0" />
+    </div>
+    <br />
+  </body>
+</html>
+

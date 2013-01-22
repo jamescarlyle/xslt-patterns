@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?><block>XML.com: XML From the Inside Out -- XML development, XML
+resources, XML specifications <block><block><link href="/index.csp"></link><link href="http://ad.doubleclick.net/jump/xml.ds/home;abr=!ie;pos=top_home;sz=468x60;ord=1958533844?"> </link> Sponsored by: <link href="http://www.ixiasoft.com?from=xml.com"></link></block><block><link href="http://www.xml.com/"></link><link href="http://www.oreillynet.com/"></link><link href="http://www.oreilly.com/"></link><link href="http://www.onjava.com/"></link><block><block>
+   <link href="http://www.xml.com/">Home</link>| <link href="/resourceguide/">Resources</link>| <link href="/buyersguide">Buyer's Guide</link>| <link href="http://www.oreillynet.com/faqs/list.csp?id_subject=23">FAQs</link>| <link href="/cs/user/register">Newsletter</link>| <link href="http://careers.xml.com/">Tech
+Jobs</link></block><block>      </block></block><block><block>   XML Conference and
+Exposition 2001:   <link href="/xml2001/">Personal Scheduler</link> |  <link href="/cs/user/register?xsource=xml2001">Register</link></block></block></block><block><block><block>  <block><block><link href="/business/">Business</link></block></block><block><block><link href="/graphics/">Graphics</link></block></block><block><block><link href="/metadata">Metadata</link></block></block><block><block><link href="/mobile/">Mobile</link></block></block><block><block><link href="/programming/">Programming</link></block></block><block><block><link href="/protocols">Protocols</link></block></block><block><block><link href="/schemas">Schemas</link></block></block><block><block><link href="/style">Style</link></block></block><block><block><link href="/web/">Web</link></block></block></block>   <link href="/pub/a/axml/axmlintro.html">Annotated XML</link><link href="/pub/a/98/10/guide0.html">What is XML?</link><link href="/pub/a/2000/08/holman/index.html">What is XSLT?</link><link href="/pub/a/2000/09/xlink/index.html">What is XLink?</link><link href="/pub/a/2000/11/29/schemas/part1.html">What is XML Schema?</link><link href="/pub/a/2001/01/24/rdf.html">What is RDF?</link><link href="/pub/a/2001/04/04/webservices/index.html">What are Web
+Services?</link><link href="http://ad.doubleclick.net/jump/xml.ds/home;abr=!ie;pos=l_home;sz=125x125;ord=2008878062?"> </link><link href="http://www.xmlworld.org/xmlsan01/index.htm"></link><link href="http://www.xml.com/cs/user/login">Manage Your
+Account</link><link href="http://www.xml.com/cs/user/lostpw">Forgot Your
+Password?</link><block>  <link href="http://www.xml.com/search/">Search</link><link href="/ArticlesbyTopic/">Article Archive</link><link href="http://www.oreillynet.com/faqs/list.csp?id_subject=23">FAQs</link></block><link href="/pub/a/2001/03/21/xml_com_feed.html"></link><block>  <link href="/pub/q/xmldeviant">XML-Deviant</link><link href="/pub/q/stylematters">Style Matters</link><link href="/pub/q/xmlqanda">XML Q&amp;A</link><link href="/pub/q/transformingxml">Transforming
+XML</link><link href="/pub/q/perlxml">Perl and XML</link><link href="/pub/q/endpoints">XML Endpoints</link><link href="/pub/q/taglines">&lt;taglines&gt;</link>  <link href="/resourceguide/">XML Resources</link><link href="/buyersguide/">Buyer's Guide</link><link href="/events">Events Calendar</link><link href="/pub/q/stdlist">Standards List</link><link href="/pub/q/submlist">Submissions List</link>  <link href="/pub/a/tools/ruwf/check.html">Syntax Checker</link><link href="http://www.seyboldreport.com/"></link><link href="http://www.oreillynet.com/"></link></block></block><block><block><block><link href="http://www.xml.com/pub/a/2001/11/21/svgtools.html"></link><link href="http://www.xml.com/pub/a/2001/11/21/svgtools.html">Antoine
+Quint gives a round-up of viewers and editors for SVG</link></block><block><link href="http://www.xml.com/pub/a/2001/11/21/wrap-yr-app.html"></link><link href="http://www.xml.com/pub/a/2001/11/21/wrap-yr-app.html">The
+XML app package problem may be ripe for community solution</link></block><block><link href="http://www.xml.com/pub/a/2001/11/21/data-encoding.html"></link><link href="http://www.xml.com/pub/a/2001/11/21/data-encoding.html">Web
+Services need to relate XML and programming language types</link></block>  </block><block><link href="http://www.xml.com/pub/a/2001/11/14/e-filing.html">XML in
+Electronic Court Filing</link>
+by Ken Pittman 
+Nov. 14, 2001 
+ An overview of how XML is finding application in several
+electronic court filing pilot schemes throughout the US. </block><block><link href="http://www.xml.com/pub/a/2001/11/14/xml-libxml.html">XML::LibXML
+- An XML::Parser Alternative</link>
+by Kip Hampton 
+Nov. 14, 2001 
+ Kip Hampton discusses XML::LibXML, a capable, updated alternative
+to Perl's venerable and venerated XML::Parser. </block><block><link href="http://www.xml.com/pub/a/2001/11/14/dom-sax.html">DOM and SAX
+Are Dead, Long Live DOM and SAX</link>
+by Kendall Grant Clark 
+Nov. 14, 2001 
+ The XML developer community finds that DOM is often inappropriate,
+while SAX is too hard to grasp. The XML-Deviant covers a discussion
+on the usage and future for these APIs. </block><block><link href="http://www.xml.com/pub/a/2001/11/07/bosakubl.html">High Hopes
+for the Universal Business Language</link>
+by Edd Dumbill 
+Nov. 07, 2001 
+ The Universal Business Language (UBL) is a new effort to
+standardize XML business documents, being spearheaded by Jon Bosak.
+In this interview, Bosak describes UBL's aims and its relationship
+to ebXML. </block><block><link href="http://www.xml.com/pub/a/2001/10/31/nativexmldb.html">Introduction
+to Native XML Databases</link>
+by Kimbro Staken 
+Oct. 31, 2001 
+ Native XML databases are an important part of the emerging XML
+software infrastructure. This article explains their features,
+strengths and weaknesses. </block><block><block><block>XML News </block><block>  <link href="http://www.xmlhack.com/read.php?item=1428">Xybrix XML
+application construction kit</link>  [ <link href="http://www.xmlhack.com">xmlhack</link>]   <link href="http://www.xmlhack.com/read.php?item=1427">RTF to XSL-FO
+converter</link>  [ <link href="http://www.xmlhack.com">xmlhack</link>]   <link href="http://www.xmlhack.com/read.php?item=1426">XML-Spy gets
+XSL-FO support</link>  [ <link href="http://www.xmlhack.com">xmlhack</link>]   <link href="http://www.xmlhack.com/read.php?item=1425">Megginson's
+RDF-Filter moves to Sourceforge</link>  [ <link href="http://www.xmlhack.com">xmlhack</link>]   <link href="http://www.xmlhack.com/read.php?item=1424">NextWare 2002
+conference call for participation</link>  [ <link href="http://www.xmlhack.com">xmlhack</link>]   <link href="http://www.xmlhack.com/read.php?item=1423">MS Outlook
+interface to RDF calendars</link>  [ <link href="http://www.xmlhack.com">xmlhack</link>]   <link href="http://xml.com/pub/r/1250">xsbrowser</link>  [ <link href="http://xml.com/">XML.com
+Resource Guide</link>]   <link href="http://xml.com/pub/r/1251">XML Validator</link>  [ <link href="http://xml.com/">XML.com
+Resource Guide</link>]   <link href="http://xml.com/pub/r/1252">Xybrix XML Application
+Construction Kit</link>  [ <link href="http://xml.com/">XML.com Resource Guide</link>]   <link href="http://www.xmlhack.com/read.php?item=1418">XML Event Model
+published</link>  [ <link href="http://www.xmlhack.com">xmlhack</link>] <link href="http://www.xmlhack.com/"></link><block>XML News Headlines from The XML Cover
+Pages  by Robin Cover 
+Sponsored by OASIS </block>
+   <link href="http://xml.com/pub/a/coverpage/newspage.html#ni2001-11-21-d">ODRL
+Version 1.0 Submitted to ISO/IEC MPEG for Rights Data Dictionary
+and Rights Expressio...</link>
+   <link href="http://xml.com/pub/a/coverpage/newspage.html#ni2001-11-21-c">Auto-ID
+Center Uses Physical Markup Language in Radio Frequency
+Identification (RFID) Tag ...</link>
+   <link href="http://xml.com/pub/a/coverpage/newspage.html#ni2001-11-21-b">University
+of Chicago Oriental Institute Announces XML System for Textual and
+Archaeologic...</link>
+   <link href="http://xml.com/pub/a/coverpage/newspage.html#ni2001-11-21-a">UDDI
+Version 2 Technical Specification Now Supported by Four Public
+Implementations.</link>
+   <link href="http://xml.com/pub/a/coverpage/newspage.html#ni2001-11-15-a">TIGERS
+Work Group Releases Draft XML Schemas for Electronic Income Tax
+Submission.</link>
+   <link href="http://xml.com/pub/a/coverpage/newspage.html#ni2001-11-13-b">NISO
+Ballots the Digital Talking Book Standard.</link>
+   <link href="http://xml.com/pub/a/coverpage/newspage.html#ni2001-11-13-a">NEMI,
+IPC, and RosettaNet Publish Three Key Product Data Exchange (PDX)
+Standards.</link><link href="http://www.xml.com/pub/a/coverpage/newspage.html"></link></block></block><block><block><block>Buyer's
+Guide <link href="/buyersguide/"></link></block><block><block>Document Authoring  -  <link href="http://www.siberlogic.com/products/xml">Sponsored by
+SiberSafe: XML CMS</link><link href="/pub/pt/3">Editors</link>  <link href="/pub/pt/5">Graphics</link>  <link href="/pub/pt/4">Style
+Tools</link>  </block><block>Website Tools <link href="/pub/pt/1">Content
+Exchange/Syndication</link>  <link href="/pub/pt/6">Information Servers</link>  </block><block>Ecommerce <link href="/pub/pt/10">Application
+Builders</link>  <link href="/pub/pt/11">EDI</link>  </block><block>Data Management <link href="/pub/pt/7">Application
+Generator</link>  <link href="/pub/pt/17">Data Analysis</link>  <link href="/pub/pt/2">Schema/DTD
+Editors</link>  <link href="/pub/pt/8">Search Tools</link>  <link href="/pub/pt/9">Tree
+Viewers</link>  </block><block><link href="/pub/pt/15">Databases/Repositories</link> -  <link href="http://www.siberlogic.com/products/xml">Sponsored by
+SiberSafe: XML CMS</link></block><block><link href="/pub/pt/12">Print
+Production</link></block><block>Training <link href="/pub/pt/13">Books</link>  <link href="/pub/pt/14">Courses</link>  </block></block></block><block><block>Books </block></block><block><block><block><link href="http://www.oreilly.com/catalog/progxmlrpc/">Programming Web
+Services with XML-RPC</link></block><block><link href="http://www.oreilly.com/catalog/xmlpr2/">XML Pocket Reference,
+2nd Edition</link></block><block><link href="http://www.oreilly.com/catalog/javaxml2/">Java &amp; XML, 2nd
+Edition</link></block><block><link href="http://www.oreilly.com/catalog/xslt/">XSLT</link></block><block><link href="http://www.oreilly.com/catalog/docbook/">DocBook: The
+Definitive Guide</link></block>Visit  <link href="http://safari.oreilly.com/">Safari: O'Reilly Books
+Online</link> <link href="http://xml.oreilly.com/"></link></block></block></block></block></block><block>
+Sponsored By: <link href="http://ad.doubleclick.net/jump/xml.ds/home;abr=!ie;pos=sponsor1_home;sz=120x90;ord=1990460543?"> </link><link href="http://ad.doubleclick.net/jump/xml.ds/home;abr=!ie;pos=sponsor2_home;sz=120x90;ord=1966340372?"> </link><link href="http://ad.doubleclick.net/jump/xml.ds/home;abr=!ie;pos=sponsor3_home;sz=120x90;ord=1977857400?"> </link><link href="http://ad.doubleclick.net/jump/xml.ds/home;abr=!ie;pos=sponsor4_home;sz=120x90;ord=1116799888?"> </link><block><block>Events <link href="http://xml.com/events/"></link></block><block><link href="/pub/e/47">XML World 2001</link>  [Nov. 26,
+2001] <link href="/pub/e/138">MobileBilling</link> 
+[Nov. 28, 2001] <link href="/pub/e/153">Introduction to XSLT and
+Xpath Course</link>  [Dec. 3, 2001] <link href="/pub/e/155">XML in the Real
+World</link>  [Dec. 4, 2001] <link href="/pub/e/152">Introduction to XSLFO
+Course</link>  [Dec. 5, 2001] <link href="/pub/e/143">Interoperability
+Summit</link>  [Dec. 6, 2001] </block></block><link href="http://ad.doubleclick.net/clk;3415514;6477536;m?http://www.macromedia.com/software/coldfusion/special/promotions/"></link><link href="http://www.oreilly.com/catalog/p2presearch/"></link></block></block><block><link href="http://ad.doubleclick.net/jump/xml.ds/home;abr=!ie;pos=bot_home;sz=468x60;ord=1857729348?"> </link><block><block><link href="/pub/a/admin/commune.html">Contact Us</link> |  <link href="/pub/a/admin/mission.html">Our Mission</link> |  <link href="/pub/a/admin/policy.html">Privacy Policy</link> |  <link href="http://www.oreillynet.com/pub/a/mediakit/index.html">Advertise With Us</link> |  <link href="mailto:xml-help@xml.com">Site Help</link></block></block><block><block>Copyright © 2001 O'Reilly &amp;
+Associates, Inc. </block></block></block></block></block>

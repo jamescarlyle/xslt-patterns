@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="blockToHtml.xsl"?>
+<block tag="html">
+  <block tag="body">
+    <link>
+      <text>gif file</text>
+      <href>1.gif</href>
+    </link>
+
+    <link>
+      <text>some link text</text>
+      <href>/some/link.html</href>
+    </link>
+
+    <text>Some following text</text>
+        
+    <link>
+      <text>another link</text>
+      <href>1.gif</href>
+    </link>
+        
+    <block tag="table">
+      <text>Some text</text>
+      <link>
+        <text>another link</text>
+        <href>blah.html</href>
+      </link>
+    </block>
+  </block>
+</block>

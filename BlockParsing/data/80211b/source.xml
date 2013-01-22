@@ -1,0 +1,790 @@
+<?xml version="1.0"?>
+
+
+<html>
+  <head>
+    <meta name="generator" content="HTML Tidy, see www.w3.org" />
+    <title>Wireless Report from New York</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta content="802.11b, WiFi, wireless Ethernet, Glenn Fleishman" name="keywords" />
+    <meta content="802.11b: news and features about the wireless Ethernet standard IEEE 802.11b, also known as WiFi" name="description" />
+    <meta http-equiv="Expires" content="Mon, 01 Jan 1990 01:00:00 GMT" />
+<style type="text/css">
+  body {
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    }
+  body, td, p {
+    font-family: verdana, sans-serif;
+    font-size: 10px;
+    }
+  a {
+    text-decoration: none;
+    }
+  a:hover {
+    text-decoration:underline;
+    }
+  .newstext, .nav {
+    line-height: 18px;
+    }
+  .hCalendarTable, .dCalendarTable {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #DCDCDC;
+    }
+  .hCalendarMonthYearRow, .dCalendarMonthYearRow {
+    background-color: #161616;
+    color: #DCDCDC;
+    height: 24px;
+    }
+  .hCalendarDayNameRow, .dCalendarDayNameRow {
+    background-color: #161616;
+    color: #DCDCDC;
+    font-weight: bold;
+    }
+  .hCalendarDayRow, .dCalendarDayRow {
+    color: #DCDCDC;
+    }
+  .hCalendarDayLinked, .dCalendarDayLinked {
+    color: #DCDCDC;
+    background-color: #161616;
+    }
+  .hCalendarDayCurrent, .dCalendarDayCurrent {
+    color: #DCDCDC;
+    font-weight: bold;
+    background-color: black;
+    }
+  .hCalendarMonthYearRow, .hCalendarDayNameRow, .hCalendarDayRow, .dCalendarMonthYearRow, .dCalendarDayNameRow, .dCalendarDayRow {
+    text-align: center;
+    }
+
+  
+</style>
+    <meta content="MSHTML 5.50.4134.600" name="GENERATOR" />
+<style type="text/css">
+ body {
+  background-color: #333333;
+  color: #dcdcdc;
+ }
+ :link { color: #ffcc33 }
+ :visited { color: #cc6600 }
+ :active { color: #ffffff }
+ p.c16 {font-weight: bold}
+ tr.c15 {BACKGROUND-IMAGE: url(http://glennf.com/images/weblogs/headerbg.gif)}
+ a.c14 {COLOR: #dcdcdc; TEXT-DECORATION: none}
+ td.c13 {BACKGROUND-IMAGE: url(http://glennf.com/images/weblogs/headerbg.gif)}
+</style>
+  </head>
+
+  <body>
+    <table cellspacing="0" cellpadding="0" width="100%" border="0">
+      <tbody>
+        <tr class="c15">
+          <td class="c13" width="1"><img height="105" alt="headerBG" src="http://downloads.weblogger.com/weblogger1/theme1webloggercom/shim.gif" width="32" /></td>
+
+          <td class="c13" valign="top">
+            <table cellspacing="0" cellpadding="5" width="100%" border="0">
+              <tbody>
+                <tr>
+                  <td><b><a class="c14" href="http://80211b.weblogger.com/">802.11b Networking News</a><br />
+                  </b><i>News and features about the IEEE 802.11b networking standard</i></td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+
+        <tr>
+          <td width="1"></td>
+
+          <td>
+            <br />
+             
+
+            <table cellspacing="0" cellpadding="0" width="97%" border="0">
+              <tbody>
+                <tr>
+                  <td valign="top" width="100%">
+                    <table cellspacing="2" cellpadding="0" width="100%" border="0">
+                      <tbody>
+                        <tr>
+                          <td valign="top" align="left" width="25%">
+                            <br />
+                             
+
+                            <p class="c16">Home<br />
+                            <a href="/about">About 802.11b<br />
+                            and This Site</a><br />
+                            <a href="/list.html">Announcement List</a><br />
+                            <a href="/books.html">Books</a><br />
+                            <a href="/equipment.html">Equipment</a><br />
+                            <a href="/media.html">Media</a></p>
+
+                            <p><b>Articles<br />
+                            </b>- <a href="/weak.defense.html">Wireless insecurity (8/4)</a><br />
+                            - <a href="/network.update.html">Public network update 6/20</a><br />
+                            - <a href="/homerf.010410.html">HomeRF's future</a><br />
+                            - <a href="/cheapgateways.html">Cheap Home Gateways</a><br />
+                            - <a href="/coexistence.html">Co-existence (Bluetooth, HomeRF, 802.11b)<br />
+                            </a>- <a href="/articles.html">Archives</a></p>
+
+                            <p><b>Related Sites<br />
+                            </b><a href="http://www.80211-planet.com/">802.11 Planet</a><br />
+                            <a href="http://bluetooth.weblogs.com/">Bluetooth.weblogs.com</a><br />
+                            <a href="http://www.oreillynet.com/wireless/">O'Reilly Networks Wireless DevCenter</a><br />
+                            <a href="http://www.practicallynetworked.com/">Practically Networked</a><br />
+                            <a href="http://www.wirelessdevnet.com/">Wireless Developer Network</a></p>
+
+                            <p><!-- Search Google -->
+                            </p>
+
+                            <form action="http://www.google.com/custom" method="get">
+                              <table cellspacing="0" bgcolor="#333333" border="0">
+                                <tbody>
+                                  <tr valign="top">
+                                    <td><input maxlength="255" size="14" name="q" /> <input type="submit" value="Google Search" name="sa" /> <input type="hidden" value="AH:center;AWFID:c32a032061318778;" name="cof" /> <input type="hidden" value="80211b.weblogger.com" name="domains" /><br />
+                                    <input type="radio" checked="checked" value="80211b.weblogger.com" name="sitesearch" /> Search this log<br />
+                                    <input type="radio" value="" name="sitesearch" /> Search WWW</td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </form>
+                            <br />
+                            <!-- Search Google -->
+
+                            <p></p>
+
+                            <p><b>Vendors<br />
+                            </b><a href="http://prodv5.3com.com/products/html/prodlist.html?family=346&amp;cat=163&amp;pathtype=purchase&amp;tab=cat&amp;selcat=Wireless%20Networking%20Products">3Com</a><br />
+                            <a href="http://www.orinocowireless.com/template.html?section=m59&amp;envelope=95">Agere</a><br />
+                            <a href="http://www.apple.com/airport/">Apple</a><br />
+                            <a href="http://search.atomz.com/search/?sp-q=wireless&amp;sp-a=sp100099a8">Asant</a><br />
+                            <a href="http://www.buffalotech.com/products/index.cfm">Buffalo</a><br />
+                            <a href="http://www.cisco.com/warp/public/779/smbiz/netsolutions/find/wireless.shtml">Cisco</a><br />
+                            <a href="http://www.compaq.com/products/wireless/wlan/">Compaq</a><br />
+                            <a href="http://www.dell.com/us/en/bsd/topics/products_truemobile_latit_tm_1150.htm">Dell</a><br />
+                            <a href="http://www.dlink.com/products/DigitalHome/Wireless/">DLink</a><br />
+                            <a href="http://www.farallon.com/products/wireless/">Farallon</a> (Proxim)<br />
+                            <a href="http://www.intel.com/network/products/wireless.htm?iid=prodinfo2+wirepro&amp;">Intel</a><br />
+                            <a href="http://www.linksys.com/products/group.asp?grid=19">Linksys</a><br />
+                            <a href="http://www.maxgate.net/products/">MaxGate</a><br />
+                            <a href="http://www.netgear.com/categories.asp?xrp=11&amp;yrp=28">NetGear</a><br />
+                            <a href="http://www.raylink.com/wlan.htm">Raylink</a><br />
+                            <a href="http://www.smc.com/smc/common/wireless_all.cfm">SMC Networks</a><br />
+                            <a href="http://www.xircom.com/cda/page/1,1298,0-0-1_1-1629,00.html">Xircom</a></p>
+
+                            <p><b>For-fee Networks<br />
+                            </b><a href="http://www.airwave.com/">AirWave</a><br />
+                            <a href="http://www.globaldigitalmedia.com/becon/index.html">Global Digital Media</a><br />
+                            <a href="http://www.mobilestar.com">MobileStar</a><br />
+                            <a href="http://www.surfandsip.com/">Surf and Sip</a><br />
+                            <a href="http://www.homerun.telia.com/eng">Telia</a> (<a href="http://www.homerun.telia.com/">Swedish</a>)<br />
+                            <a href="http://www.wayport.com">WayPort</a></p>
+
+                            <p></p>
+
+                            <p><b>Free Networks</b><br />
+                            <i>(Personal Telco's <a href="http://www.personaltelco.net/index.cgi/WirelessCommunities">ongoing comprehensive list</a>)</i><br />
+                            </p>
+
+                            <p><a href="http://www.guerrilla.net/">Guerrilla.net</a> (Northeast)<br />
+                            <a href="http://www.personaltelco.net/">Personal Telco</a> (Portland, Ore.)<br />
+                            <a href="http://www.sflan.com/">SF LAN</a><br />
+                            <a href="http://www.seattlewireless.net/">Seattle Wireless</a><br />
+                            <a href="http://nycwireless.net/">NYC Wireless</a><br />
+                            </p>
+
+                            <p><b>Organizations<br />
+                            </b><a href="http://www.wi-fi.net">Wireless Ethernet Compatibility Alliance or WECA</a> (WiFi certification organization)<br />
+                            <a href="http://www.WLANA.org/">Wireless LAN Association</a></p>
+
+                            <p><b>Protocols<br />
+                            </b><a href="http://www.ieee802.org">IEEE 802</a> <b></b>(Ethernet and LANs)</p>
+
+                            <p><b>Contact<br />
+                            </b><a href="mailto:80211b@glennf.com">Send email</a></p>
+                          </td>
+
+                          <td valign="top" align="left">
+                            <table cellspacing="0" cellpadding="8" width="100%" border="0">
+                              <tbody>
+                                <tr>
+                                  <td>
+
+                                    <p></p>
+
+                                    <div class="newstext">
+                                      <table cellspacing="0" cellpadding="2" width="100%" bgcolor="#666666" border="0">
+                                        <tbody>
+                                          <tr>
+                                            <td><b><a title="Permanent link to archive for 9/11/01." href="http://80211b.weblogger.com/2001/09/11"><img height="15" alt="Permanent link to archive for 9/11/01." src="http://static.userland.com/misc/snImages/dailyLinkIcon.gif" width="12" border="0" /></a> Tuesday, September 11, 2001</b> </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+
+                                      <p></p>
+
+                                      <h2>Wireless Report from New York</h2>
+
+                                      <blockquote>
+                                        <p></p>
+
+                                        <p>A colleague and friend based in Brooklyn, <a href="http://www.mikedaisey.com">Mike Daisey</a>, at the moment when events happened was in Manhattan using a wireless network connection. He sent out this report:</p>
+
+                                        <p></p>
+
+                                        <p>"I am writing this from downtown New York. In a perverse reversal, I have no way to contact anyone except through my high-speed wireless internet connection--phones are out, and electricity in the area is intermittent.</p>
+
+                                        <p></p>
+
+                                        <p>"The media will ultimately tell the story better than I, but I can tell you that there is massive loss of life. The sky is black with ash, the people have been panicking and fleeing in unadulterated terror. I have never seen anything like it. It is very difficult to breathe, even with your mouth covered--the ash blows down the streets and burns your eyes. It feels like the world has ended. When the screaming started and the crowds began to run after the second plane struck it was a horror film running in overdrive, jumping frames and cutting in and out. Time got lost--I don&acirc;&euro;&trade;t know how long this went on. I have a cut on my leg. I ended up in a Wendy&acirc;&euro;&trade;s where a huge number of us took refuge. I don&acirc;&euro;&trade;t know where the workers were--I helped get water for people.</p>
+
+                                        <p></p>
+
+                                        <p>"I am starting to see emergency workers, and the streets are clearing somewhat--at least the first waves of panic are passing. I&acirc;&euro;&trade;ve seen bodies draped in white sheets--it took me a time to realize those were bodies, not injured people; they must be out of room or not be able to get them to the morgues or the hospitals.</p>
+
+                                        <p></p>
+
+                                        <p>"I&acirc;&euro;&trade;m headed for the Brooklyn Bridge to walk out of the city. I&acirc;&euro;&trade;m going to stop at any hospital I find to give blood before leaving. If anyone reading this can, please donate blood--I heard from a medic that the hospitals are already running out."</p>
+
+                                        <p></p>
+
+                                        <p><a href="http://80211b.weblogger.com/discuss/msgReader$102"><img height="16" alt="presented by weblogger.com" src="http://downloads.weblogger.com/weblogger1/theme1webloggercom/w.gif" width="16" border="0" /></a></p>
+                                      </blockquote>
+                                      <br />
+                                    </div>
+
+                                    <div class="newstext">
+                                      <table cellspacing="0" cellpadding="2" width="100%" bgcolor="#666666" border="0">
+                                        <tbody>
+                                          <tr>
+                                            <td><b><a title="Permanent link to archive for 9/10/01." href="http://80211b.weblogger.com/2001/09/10"><img height="15" alt="Permanent link to archive for 9/10/01." src="http://static.userland.com/misc/snImages/dailyLinkIcon.gif" width="12" border="0" /></a> Monday, September 10, 2001</b> </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+
+                                      <p></p>
+
+                                      <h2>News for Sept. 10</h2>
+
+                                      <blockquote>
+                                        <p><b><a href="http://news.cnet.com/news/0-1004-200-7093015.html">Superb rundown of Intel's entrance into the 802.11a market using Atheros chips in November</a></b>: one of the big players in the corporate market steps forward to embrance 802.11a. A good point mentioned here that we've discussed earlier: 802.11a may not offer its top speeds at the same ranges that 802.11b can perform at peak, but it's still faster. Where 802.11b would drop to 2 Mbps, 802.11a could range from 2 to 12 Mbps, according to the article. Another account by <a href="http://www.internetnews.com/prod-news/article/0,,9_881741,00.html">internetnews.com</a>.</p>
+
+                                        <p></p>
+
+                                        <p><b><a href="http://paulboutin.weblogger.com/2001/09/09">I dispute the dual-radio-problem contended here</a></b>: my editor over at Wired, Paul Boutin, says that engineers have told him that dual-radio cards are unlikely. Everyone I've spoken to and other news reports refute that: there's already a chipset in the works that could allow common components to talk to two radios, rather than requiring two entirely separate units. (See illustration in <a href="http://www.idg.net/crd_idgsearch_2.html?url=http://www.nwfusion.com/news/2001/0903infra.html">this article</a>.)</p>
+
+                                        <p></p>
+
+                                        <p><b><a href="http://www.wired.com/news/business/0,1367,46451,00.html">A less-informed piece from Wired News on 802.11a's emergence</a></b>: the writer doesn't quite get the numbers right, which muffs the overall point. 802.11a may not wind up being much different in price for comparable equipment. The prices quoted in the article are all over the board, as they don't distinguish between home gateways (which run $200 to $300), SOHO equipment ($200 to $600), and enterprise (several hundred to over a thousand).</p>
+
+                                        <p></p>
+
+                                        <p><b><a href="http://www.interactiveweek.com/article/0,3658,s%253D1825%2526a%253D14310,00.asp">Wi-Fi phones</a></b>: you have to buy a system and it only works in an office setting, but it's one more step in the transition from ubiquitous networks to ubiquitous voice and data.</p>
+
+                                        <p></p>
+
+                                        <p><b><a href="http://www.pasadenastarnews.com/S-ASP-BIN/REF/Index.ASP?PUID=1397&amp;Indx=1077160">Wowee, more wireless in schools! Hip hip hooray!</a></b>: can you tell that was sarcasm? This article hypes the fact that the schools are using wireless, only mentioning in passing what the wireless technology and computers are being used for. Writing, research, and a bit with video. Except for the last, I don't see the advantage over paper and books, which are remarkably cheaper, last longer, and can be shared more effectively. They also don't require subscriptions, and are generally peer-reviewed and have some authority (the books, not the blank paper). Don't get me started.</p>
+                                      </blockquote>
+                                      <br />
+                                    </div>
+
+                                    <div class="newstext">
+                                      <table cellspacing="0" cellpadding="2" width="100%" bgcolor="#666666" border="0">
+                                        <tbody>
+                                          <tr>
+                                            <td><b><a title="Permanent link to archive for 9/8/01." href="http://80211b.weblogger.com/2001/09/08"><img height="15" alt="Permanent link to archive for 9/8/01." src="http://static.userland.com/misc/snImages/dailyLinkIcon.gif" width="12" border="0" /></a> Saturday, September 8, 2001</b> </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+
+                                      <p></p>
+
+                                      <h2>News for Sept. 8</h2>
+
+                                      <blockquote>
+                                        <p><b><a href="http://www.infoworld.com/articles/hn/xml/01/09/07/010907hnparasitic.xml">Users reject notion of parasitic grid</a></b>: although InfoWorld didn't publish any of the many letters I was cc'd on about <a href="http://www.infoworld.com/articles/hn/xml/01/08/24/010824hnfreewireless.xml">a column that appared in its pages a few weeks ago</a> about free wireless networks, it did run this odd article. (My take on the initial issue is <a href="/2001/08/25">here</a>.)</p>
+                                      </blockquote>
+                                      <br />
+                                    </div>
+
+                                    <div class="newstext">
+                                      <table cellspacing="0" cellpadding="2" width="100%" bgcolor="#666666" border="0">
+                                        <tbody>
+                                          <tr>
+                                            <td><b><a title="Permanent link to archive for 9/7/01." href="http://80211b.weblogger.com/2001/09/07"><img height="15" alt="Permanent link to archive for 9/7/01." src="http://static.userland.com/misc/snImages/dailyLinkIcon.gif" width="12" border="0" /></a> Friday, September 7, 2001</b> </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+
+                                      <p></p>
+
+                                      <h2>News for Sept. 7</h2>
+
+                                      <blockquote>
+                                        <p><b><a href="http://www.oreillynet.com/cs/weblog/view/wlg/647">O'Reilly Networks's Rob Flickenger and Dave Sims discuss the parasitic grid</a></b>: nice discussion between two clued-in folks.</p>
+
+                                        <p></p>
+
+                                        <p><b>A trip to Maine this last week demonstrated how 802.11b is <a href="http://www.midcoast.com/mis/wirelessplan.html">a great alternative to wired access</a></b>: Midcoast Internet Solutions, a long-established and well-run ISP in <a href="http://www.expedia.com/pub/agent.dll?qscr=mmvw&amp;msds=EX01735D2696f$13Iz$A8$C7Pz94!A01000!4$FF!50!Q$FF0!8$FF$230Wpogdfxgy.Dma$2C.Kmjop$2C.Vojypu.Fymypf!2$FF30dma$9CrYK$14$29I$40$D2$7E$B5$B4$E4$38R$C0$960001000$83000$1Bu!50!2$FF0000!2$FF$14000!6$FF!G010">Penobscot Bay</a> is using 802.11 and 802.11b to run point-to-point high speed links to businesses and individuals using a variety of relaying points and repeaters. They have space on a bluff towards the south (near Owl's Head) that can reach many customers through direct line-of-site.</p>
+
+                                        <p></p>
+
+                                        <p><b><a href="http://www.idg.net/crd_idgsearch_2.html?url=http://www.nwfusion.com/news/2001/0903infra.html">IEEE may approve standards that would allow 802.11a, b, and g in the same chipsets</a></b>: nothing particularly new here, but it's a well-researched and written article that shows how a, b, and g may converge, supercede, and complement each other. The general conclusion is that 11g may take long enough to market and 11a may cost little enough that industry will focus on the 5 GHz band instead of retooling in the crowded 2.4 GHz band used by 802.11a, g, HomeRF, Bluetooth, cordless phones, and microwave oven emissions.</p>
+                                      </blockquote>
+                                      <br />
+                                    </div>
+
+                                    <div class="newstext">
+                                      <table cellspacing="0" cellpadding="2" width="100%" bgcolor="#666666" border="0">
+                                        <tbody>
+                                          <tr>
+                                            <td><b><a title="Permanent link to archive for 8/30/01." href="http://80211b.weblogger.com/2001/08/30"><img height="15" alt="Permanent link to archive for 8/30/01." src="http://static.userland.com/misc/snImages/dailyLinkIcon.gif" width="12" border="0" /></a> Thursday, August 30, 2001</b> </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+
+                                      <p></p>
+
+                                      <h2>802.11b News for Aug .30</h2>
+
+                                      <blockquote>
+                                        <p>It's a big Wi-Fi news day before I head off to Maine til next Thursday; expect more news on my return (but not about Maine).</p>
+
+                                        <p></p>
+
+                                        <p><b><a href="http://dailynews.yahoo.com/h/cn/20010829/tc/bluetooth_has_lost_declares_intel_executive_1.html">"802.11 has won" says Intel</a></b>: an executive at the company kicks Bluetooth in its...well, that would be too obvious a metaphor. (via Jim Dalrymple at <a href="http://www.maccentral.com">MacCentral</a>)</p>
+
+                                        <p></p>
+
+                                        <p><b><a href="http://danbricklin.com/log/2001_07_22.htm">Software pioneer Dan Bricklan on 802.11b</a></b>: good to see what an intelligent guy who has been kicking around since developing VisiCalc has to say about the Next Big Thing.</p>
+
+                                        <p></p>
+
+                                        <p><b><a href="http://www.80211-planet.com/columns/article/0,4000,1781_873181,00.html">First look at 802.11a</a></b>: the folks at 802.11 Planet (more on them below) get a first look at the Atheros 802.11a chipset in action. Sounds promising. The short of it: higher bandwidth with better algorithms and many stepdown speeds produce more throughput than 802.11b at similar distances indoors.</p>
+
+                                        <p></p>
+
+                                        <p><b><a href="http://www.internetnews.com/prod-news/article/0,,9_875921,00.html">Get rugged</a></b>: integrated 802.11b in a serious laptop meant for being bashed, used outdoors, and otherwise beat up.</p>
+
+                                        <p></p>
+
+                                        <p><b><a href="http://www.theregister.co.uk/content/55/21343.html">Wireless issues abound at Intel Forum</a></b>: security, compatibility, co-existence</p>
+
+                                        <p></p>
+
+                                        <p><b><a href="http://seminars.internet.com/80211/fall01/">Remember the 802.11 Planet conference in early October!</a></b>: yours truly will be there serving on one panel and moderating another. The conference looks truly interesting for businesses and ISPs, as well as those journalists and technologists who want to be on top of the latest news.</p>
+
+                                        <p></p>
+
+                                        <p><b><a href="http://maccentral.macworld.com/news/0108/30.airport.shtml">Apple chooses odd moment to upgrade AirPort cards to 128-bit WEP encryption keys</a></b>: Apple's AirPort card - a kind of PC Card that fits in a special slot in all shipping Macintoshes - used to support just 40-bit WEP keys. The new version supports 128-bit keys for compatibility, but there is no word, according to the MacCentral article, on whether existing cards can be flash upgraded or whether the Apple AirPort Base Station (access point) will be similarly upgraded. Oddly, the 128-bit key is no more secure now than the 40/56/64-bit key, so the timing is strange.</p>
+                                      </blockquote>
+                                      <br />
+                                    </div>
+
+                                    <div class="newstext">
+                                      <table cellspacing="0" cellpadding="2" width="100%" bgcolor="#666666" border="0">
+                                        <tbody>
+                                          <tr>
+                                            <td><b><a title="Permanent link to archive for 8/29/01." href="http://80211b.weblogger.com/2001/08/29"><img height="15" alt="Permanent link to archive for 8/29/01." src="http://static.userland.com/misc/snImages/dailyLinkIcon.gif" width="12" border="0" /></a> Wednesday, August 29, 2001</b> </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+
+                                      <p></p>
+
+                                      <h2>WayPort Acquires Laptop Lanes, Adds Airports</h2>
+
+                                      <blockquote>
+                                        <p><b><a href="http://www.internetnews.com/prod-news/article/0,,9_875071,00.html">WayPort buys Laptop Lanes and will add 802.11b to several airports</a></b>: the first real public salvo in the battle of the airports. Although the reach of for-fee public Wi-Fi networks have been growing over the last year, most notably with MobileStar's expansion to hundreds of Starbucks outlets, airport terminal coverage has been highly restricted, often found behind closed doors in red carpet or executive clubs.</p>
+
+                                        <p></p>
+
+                                        <p>The parent company of Laptop Lanes, <a href="http://www.softnet.com">SoftNet Systems</a>, bought that firm in 2000 as part of its attempt to expand into a national brand. They also founded AerZone, which was focusing on partnerships with airlines to quickly roll out service in airports. They had signed contracts with United and Delta to equip all of their gates and lounges, and a contract with San Francisco International Airport (SFO) to roll service out there. Laptop Lanes was to be renamed AerZone Business Center, or something similar.</p>
+
+                                        <p></p>
+
+                                        <p>Abruptly, however, AerZone gave up the ghost in mid-December 2000, after under a year of development (with no operations). I had interviewed their CMO on a Thursday; the next Monday, the outside PR firm called to tell me operations had ceased (apparently to the surprise of the CMO). SoftNet had absorbed the reality of the costs of deployment in a tightening economy, and pulled back. It also started advertising for a buyer for Laptop Lanes.</p>
+
+                                        <p></p>
+
+                                        <p>AerZone has proved a cautionary tale for other wireless ISPs, who have only gradually moved into airports. WayPort's acquisition of Laptop Lanes gives them point sources to equip rather than requiring a complete terminal coverage, which the company offers at only a few airports, such as - erratically - at Seattle-Tacoma International Airport (SeaTac).</p>
+
+                                        <p></p>
+
+                                        <p>The lessons learned from AerZone are several. Cost is certainly one, as building complete coverage - which some airports' operators have required - requires both wired and wireless infrastructure. One provider (now pulling out of the public market itself) said that it could cost $2 million to equip an average metropolitan airport.</p>
+
+                                        <p></p>
+
+                                        <p>Word also circulates among the companies and individuals I speak to regularly that some airports are demanding large fees simply for entry, plus significant portions of the proceeds. (MobileStar charges an extra $1 per 24-hour-period in an airport even when using its unlimited minutes service.)</p>
+
+                                        <p></p>
+
+                                        <p>Another factor is competition: some airports are still bidding offers, and others have limited deployment until they can decide on policies for overlap. The ownership of the airwaves in airports is not exactly up for debate, but there are multiple stakeholders confusing issues further: can an airline offer "private" Wi-Fi in its red carpet club and at its gates, while the airport authorizes other services for the entire airport?</p>
+
+                                        <p></p>
+
+                                        <p>There's definitely a technology issue, too: if you aim for complete coverage with competition, you have a limited number of potential overlapping channels to avoid reducing bandwidth for everyone. (Wi-Fi has 11 available channels in the U.S., but they overlap. You can operate three access points on three distinct, nonoverlapping channels, but if you have two services trying to overlap coverage - you get the point. You run out of channels, and you require complete coordination between competitors.)</p>
+
+                                        <p></p>
+
+                                        <p>Although at first blush, it seems a no-brainer to do the airports first and let cities follow, wireless ISPs seem doomed to follow in Metricom's halting footsteps. The airports need to be fully available and reliable at any reasonable price; hook the customer there, and they take the service home with them, and demand it there.</p>
+
+                                        <p></p>
+
+                                        <p>[Current publicly known coverage: Seattle's SeaTac, Dallas/Ft. Worth, Austin, and San Jose have more or less complete coverage, with MobileStar in American Airlines lounges in all major cities, and Global Digital Media (still?) hitting Boston and Philadelphia.]</p>
+                                      </blockquote>
+                                      <br />
+                                    </div>
+
+                                    <div class="newstext">
+                                      <table cellspacing="0" cellpadding="2" width="100%" bgcolor="#666666" border="0">
+                                        <tbody>
+                                          <tr>
+                                            <td><b><a title="Permanent link to archive for 8/28/01." href="http://80211b.weblogger.com/2001/08/28"><img height="15" alt="Permanent link to archive for 8/28/01." src="http://static.userland.com/misc/snImages/dailyLinkIcon.gif" width="12" border="0" /></a> Tuesday, August 28, 2001</b> </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+
+                                      <p></p>
+
+                                      <h2>Bluetooth and IP</h2>
+
+                                      <blockquote>
+                                        <p><b><a href="http://www.forbes.com/2001/08/28/0828tentech.html">Forbes discusses a Sony Bluetooth-enabled digital camcorder</a></b>: but my question is, why would Sony put Bluetooth in a digital camcorder to send short video clips when Bluetooth is limited to 1 Mbps? The device is called the Network Handycam IP, which is even funnier, given that Bluetooth is an ad hoc protocol, not a true networking system, and doesn't actually support IP (Internet Protocol) networking.</p>
+
+                                        <p></p>
+
+                                        <p><b><a href="http://www0.siliconvalley.com/docs/news/depth/palm0818001.htm">Palm backs Bluetooth, but is it the right plan?</a></b>: Palm is betting on the wrong horse when it comes to exchanging data, as a combination of speed and flexibility needed to turn the Palm into a real computing device aren't available under Bluetooth. When I tested the <a href="http://www.xircom.com/cda/page/0,1298,1-840-1_1-1633,00.html">Xircom wireless adapter for Handspring</a>, I was stunned at how the Handspring changed instantly from useful PDA into a window on the Internet. [link, as is often the case, via <a href="http://www.tomalak.org">Tomalak's Realm</a>]</p>
+                                      </blockquote>
+                                      <br />
+                                    </div>
+
+                                    <div class="newstext">
+                                      <table cellspacing="0" cellpadding="2" width="100%" bgcolor="#666666" border="0">
+                                        <tbody>
+                                          <tr>
+                                            <td><b><a title="Permanent link to archive for 8/27/01." href="http://80211b.weblogger.com/2001/08/27"><img height="15" alt="Permanent link to archive for 8/27/01." src="http://static.userland.com/misc/snImages/dailyLinkIcon.gif" width="12" border="0" /></a> Monday, August 27, 2001</b> </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+
+                                      <p></p>
+
+                                      <h2>You're All a Bunch of Parasites</h2>
+
+                                      <blockquote>
+                                        <p><b><a href="http://slashdot.org/article.pl?sid=01/08/27/172225&amp;mode=thread">Slashdot weighs in on the "parasitic grid"</a></b>: here's a good firestorm, if I've ever seen one, about Ephraim Schwartz's <a href="http://www.infoworld.com/articles/hn/xml/01/08/24/010824hnfreewireless.xml">article in InfoWorld</a> in which he employs the term "parasitic grid" to refer to free wireless networks. There are plusses and minuses to the term, as I discussed yesterday. Opportunitistic networking would be more accurate.</p>
+
+                                        <p></p>
+
+                                        <p><b>Two sensible articles predicting reasonable futures</b>: one, from eWeek, on <a href="http://www.zdnet.com/eweek/stories/general/0,11011,2807757,00.html">802.11a's increasing traction</a>; the other, from <a href="http://www.internetwk.com/story/INW20010827S0009">Internet Week, on the reasoned reaction to WEP's weakness</a>. The former article also mentions an increasing availability of 802.11b-based phones.</p>
+
+                                        <p></p>
+
+                                        <p><b><a href="http://slashdot.org/article.pl?sid=01/08/27/0138253">I've been slashdotted myself (first time)</a></b>: a lot of excellent queries and elaborations at Slashdot on the <a href="http://www.oreillynet.com/pub/a/wireless/2001/08/24/linksys.html">Linksys WAP11 bridging article</a> I wrote for O'Reilly Networks</p>
+                                      </blockquote>
+                                      <br />
+                                    </div>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+
+                  <td valign="top" width="1" bgcolor="#999999"><img alt="shim" src="http://downloads.weblogger.com/weblogger1/theme1webloggercom/shim.gif" /> </td>
+
+                  <td valign="top" width="150">
+                    <div class="nav">
+                      <table cellspacing="0" cellpadding="8" width="100%" border="0">
+                        <tbody>
+                          <tr>
+                            <td>
+                              <p><a href="http://80211b.weblogger.com/xml/scriptingNews2.xml"><img height="14" src="http://glennf.com/images/weblogs/xml.gif" width="36" border="0" /></a><br />
+                              <br />
+                              This page last updated 9/11/2001; 11:17:40 AM<br />
+                              </p>
+
+                              <table border="0">
+                                <tbody>
+                                  <tr>
+                                    <td>
+                                      <table class="hCalendarTable" cellspacing="0" border="0">
+                                        <tbody>
+                                          <tr class="hCalendarMonthYearRow">
+                                            <td colspan="7"><b>September 2001</b></td>
+                                          </tr>
+
+                                          <tr class="hCalendarDayNameRow">
+                                            <td width="19" height="10">Sun</td>
+
+                                            <td width="19" height="10">Mon</td>
+
+                                            <td width="19" height="10">Tue</td>
+
+                                            <td width="19" height="10">Wed</td>
+
+                                            <td width="19" height="10">Thu</td>
+
+                                            <td width="19" height="10">Fri</td>
+
+                                            <td width="19" height="10">Sat</td>
+                                          </tr>
+
+                                          <tr class="hCalendarDayRow">
+                                            <td colspan="6"> </td>
+
+                                            <td class="hCalendarDay" height="10">1</td>
+                                          </tr>
+
+                                          <tr class="hCalendarDayRow">
+                                            <td class="hCalendarDay" height="10">2</td>
+
+                                            <td class="hCalendarDay">3</td>
+
+                                            <td class="hCalendarDay">4</td>
+
+                                            <td class="hCalendarDay">5</td>
+
+                                            <td class="hCalendarDay">6</td>
+
+                                            <td class="hCalendarDayLinked"><a href="http://80211b.weblogger.com/2001/09/07">7</a></td>
+
+                                            <td class="hCalendarDayLinked"><a href="http://80211b.weblogger.com/2001/09/08">8</a></td>
+                                          </tr>
+
+                                          <tr class="hCalendarDayRow">
+                                            <td class="hCalendarDay" height="10">9</td>
+
+                                            <td class="hCalendarDayLinked"><a href="http://80211b.weblogger.com/2001/09/10">10</a></td>
+
+                                            <td class="hCalendarDayCurrent"><b>11</b></td>
+
+                                            <td class="hCalendarDay">12</td>
+
+                                            <td class="hCalendarDay">13</td>
+
+                                            <td class="hCalendarDay">14</td>
+
+                                            <td class="hCalendarDay">15</td>
+                                          </tr>
+
+                                          <tr class="hCalendarDayRow">
+                                            <td class="hCalendarDay" height="10">16</td>
+
+                                            <td class="hCalendarDay">17</td>
+
+                                            <td class="hCalendarDay">18</td>
+
+                                            <td class="hCalendarDay">19</td>
+
+                                            <td class="hCalendarDay">20</td>
+
+                                            <td class="hCalendarDay">21</td>
+
+                                            <td class="hCalendarDay">22</td>
+                                          </tr>
+
+                                          <tr class="hCalendarDayRow">
+                                            <td class="hCalendarDay" height="10">23</td>
+
+                                            <td class="hCalendarDay">24</td>
+
+                                            <td class="hCalendarDay">25</td>
+
+                                            <td class="hCalendarDay">26</td>
+
+                                            <td class="hCalendarDay">27</td>
+
+                                            <td class="hCalendarDay">28</td>
+
+                                            <td class="hCalendarDay">29</td>
+                                          </tr>
+
+                                          <tr class="hCalendarDayRow">
+                                            <td class="hCalendarDay" height="10">30</td>
+
+                                            <td colspan="6"> </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <b><a href="http://80211b.weblogger.com/2001/08/30">Aug</a>   Oct</b><br />
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                              <br />
+                               
+
+                              <table cellspacing="0" cellpadding="1" width="100%" bgcolor="#dcdcdc" border="0">
+                                <tbody>
+                                  <tr>
+                                    <td>
+                                      <table cellspacing="0" cellpadding="0" width="100%" border="0">
+                                        <tbody>
+                                          <tr bgcolor="#000000">
+                                            <td>
+                                              <table cellspacing="0" cellpadding="4" width="100%" border="0">
+                                                <tbody>
+                                                  <tr>
+                                                    <td><b>Discussion</b></td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+
+                                          <tr bgcolor="#333333">
+                                            <td>
+                                              <table cellspacing="0" cellpadding="4" width="100%" border="0">
+                                                <tbody>
+                                                  <tr>
+                                                    <td>
+                                                      <p><a href="http://80211b.weblogger.com/discuss/">Recent Discussion</a><br />
+                                                      <a href="http://80211b.weblogger.com/discuss/edit/newTopic/">Create New Topic</a></p>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                              <br />
+                               
+
+                              <table cellspacing="0" cellpadding="1" width="100%" bgcolor="#dcdcdc" border="0">
+                                <tbody>
+                                  <tr>
+                                    <td>
+                                      <table cellspacing="0" cellpadding="0" width="100%" border="0">
+                                        <tbody>
+                                          <tr bgcolor="#000000">
+                                            <td>
+                                              <table cellspacing="0" cellpadding="4" width="100%" border="0">
+                                                <tbody>
+                                                  <tr>
+                                                    <td><b>Members</b></td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+
+                                          <tr bgcolor="#333333">
+                                            <td>
+                                              <table cellspacing="0" cellpadding="4" width="100%" border="0">
+                                                <tbody>
+                                                  <tr>
+                                                    <td><a href="http://80211b.weblogger.com/member/signup">Join Now</a><br />
+                                                    <a href="http://80211b.weblogger.com/member/login">Login</a> </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                              <br />
+                              <a title="Manila is an Internet server application that allows groups of writers, designers and graphics people to manage full-featured, high performance web sites through an easy-to-use browser interface." href="http://www.weblogger.com/"><img height="31" alt="This is a Manila Site" src="http://downloads.weblogger.com/weblogger1/weblogger/webloggerTag.gif" width="88" border="0" /></a> <br />
+                              <br />
+                               
+
+                              <p><!-- START OF WEBTRENDS LIVE TAG --><!-- Copyright 1999-2000 WebTrends Corporation --><!-- eCommerce Revenue Tracking (patent pending) -->
+                              </p>
+
+                              <p><!-- Visit us at http://www.webtrendslive.com -->
+                              </p>
+
+                              <p>
+<script type="text/javascript" language="JavaScript">
+<!--
+// You may customize the values of the variables below to suit your website.
+// Simply insert your own values between the double-quotes.
+// Here are some examples:
+//   var ORDER= "D2,Business to Consumer,Pocket FM Radio,Audio Products,10,499.99;";
+//   var SERVER= "MyServerName";
+//   var CONTENTGROUP= "ContentGroupOfThisPage";
+
+var ORDER= "";
+var SERVER= "";
+var CONTENTGROUP= "";
+//-->
+</script>
+                              </p>
+
+                              <p>
+<script type="text/javascript" language="JavaScript">
+<!--
+// Modification of this code is not allowed and will permanently disable your account!
+// SiteName: 802.11b Web Log
+var W="tagver=3&SiteId=83659&Sid=005-01-6-20-256613-83659&Tz=-800&firstwkday=sunday&Edition=personal&Button=11";
+W+="&server="+escape(SERVER);
+W+="&order="+escape(ORDER);
+W+="&Group="+escape(CONTENTGROUP);
+W+="&browserDate="+escape(new Date());
+W+="&title="+escape(document.title);
+W+="&url="+escape(window.document.URL);
+W+="&referrer="+escape(window.document.referrer);
+W+="&appname="+escape(navigator.appName);
+W+="&appversion="+escape(navigator.appVersion);
+W+="&cookieOK="+(navigator.cookieEnabled?"Yes":"No");
+W+="&userLanguage="+(navigator.appName=="Netscape"?navigator.language:navigator.userLanguage);
+W+="&platform="+navigator.platform;
+W+="&bgColor="+escape(document.bgColor);
+W+="&javaOK=Yes";
+if(typeof(screen)=="object")
+{
+W+="&screenResolution="+screen.width+"x"+screen.height;
+W+="&colorDepth="+screen.colorDepth;
+W+="&NSpluginList=";
+for( var i=0; i< navigator.plugins.length; i++)
+W+=escape(navigator.plugins[i].name)+";";
+}
+document.write('<A TARGET="_blank" HREF="http://www.webtrendslive.com/redirect.asp?siteID=83659">');
+document.write('<IMG BORDER="0" WIDTH="100" HEIGHT="30" SRC="http://statse.webtrendslive.com/S005-01-6-20-256613-83659/button3.asp?'+W+'">');
+document.write('<\/A>');
+//-->
+</script>
+                              </p>
+
+                              <p><noscript><a target="_blank" href="http://www.webtrendslive.com/redirect.asp?siteID=83659"><img height="30" src="http://statse.webtrendslive.com/S005-01-6-20-256613-83659/button3.asp?tagver=3&amp;SiteId=83659&amp;Sid=001-00-3-10-6692-7351&amp;Tz=-800&amp;firstwkday=sunday&amp;Edition=personal&amp;Button=11&amp;title=NO%20SCRIPT&amp;url=http://noscript&amp;javaOK=No&amp;" width="100" border="0" /></a></noscript> <!-- END OF WEBTRENDS LIVE TAG -->
+                              </p>
+
+                              <p><br />
+                              <br />
+                              This site is using a modification of the <a href="http://theme1.weblogger.com/">Soni 1.1 theme</a><br />
+                              <br />
+                              Entire site and all contents &Acirc;&copy; Copyright 2001 by Glenn Fleishman. All rights reserved. Please <a href="mailto:80211b@glennf.com">contact</a> for reprint rights. Linking is, of course, free and encouraged.</p>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p> </p>
+  </body>
+</html>
+

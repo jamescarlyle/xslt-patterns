@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="xhtmlToBlockBasic1.xsl"?>
+<div>
+yada1
+<div>
+	<!-- block following block -->
+	<div>
+		<!-- span following block -->
+		<b>Hey</b>
+		<!-- text following span -->
+		diddle
+		<!-- link following text -->
+		<a href="abc">did</a>
+		dle
+		<!-- block following text -->
+	 	<div>
+			<!-- text following block -->
+		  	the cat and the
+			<!-- span following text -->
+		  	<b>fiddle</b>
+			<!-- blockClose following span -->
+		</div>
+	 	The cow <b>jumped</b>
+		<!-- link following span -->
+	 	<a href="abc">over</a>
+		<!-- span following link -->
+		<b>the</b> moon
+		<!-- span following span -->
+		<b>The</b><b> little</b>
+		<!-- block following span -->
+		<div>dog</div>
+		<a href="abc">laughed to</a>
+		<!-- link following link -->
+		<a href="abc">see such</a>
+		<!-- block following link -->
+		<div>
+			<!-- link following block -->
+			<a href="abc">fun</a>
+			<!-- text following link -->
+			and the dish ran away
+			<!-- text following text -->
+			with the spoon
+			<!-- blockClose following text -->
+		</div>
+		<!-- blockClose following blockClose -->
+	</div>
+	<!-- block following blockClose -->
+	<div>
+	</div>
+	<!-- link following blockClose -->
+	<a href="abc">James Carlyle</a>
+	<div>
+	<!-- blockClose following link -->
+	</div>
+	<!-- span following blockClose -->
+	<b>Keats</b>
+	<div>
+	<!-- blockClose following block -->
+	</div>
+	<!-- text following blockClose -->
+	1852
+</div>
+yada2
+</div>
+
+
+
+
+

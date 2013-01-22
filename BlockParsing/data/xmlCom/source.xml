@@ -1,0 +1,895 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<html>
+<head>
+<meta name="generator" content="HTML Tidy, see www.w3.org" />
+<title>XML.com: XML From the Inside Out -- XML development, XML
+resources, XML specifications</title>
+<meta http-equiv="Pragma" content="no-cache" />
+<meta name="description"
+content="XML.com, where the XML community shares XML development resources and solutions, features timely news, opinions, features, and tutorials; the Annotated XML specification created by Tim Bray; authoring tools, XML developer resources, interactive forums, and newsletters." />
+<meta name="keywords"
+content="o'reilly network,o'reilly,xml,xml development,xml specifications,xslt,soap,svg,xml-rpc,xml,xml.com,developer,extensible markup language,xsl,style,stylesheets,style sheets,css,dsssl,xml tutorials,xml tools,xml parsers,xsl tutorials,xsl tools,xsl parsers,css resources,style sheet resources,xml resources,xml rpc,metadata,web development,network,open source,development reference,document authoring,technical information,open source,oasis" /><!--  stylesheet  -->
+<script language="JavaScript" src="http://www.xml.com/common.js"
+type="text/javascript">
+</script>
+
+<script language="JavaScript" type="text/javascript">
+<!-- <![CDATA[
+if (navigator.userAgent.indexOf('Win') != -1 ) {
+     if (navigator.appName.indexOf('Microsoft') != -1)
+     document.write('<link rel="STYLESHEET" type="text/css" href="http://www.xml.com/styles/pc-px-msie.css" />');
+     else
+     document.write('<link rel="STYLESHEET" type="text/css" href="http://xml.com/styles/pc-px-net.css" />');
+     }
+else if (navigator.userAgent.indexOf('Mac') != -1 )
+     document.write('<link rel="STYLESHEET" type="text/css" href="http://www.xml.com/styles/mac-px.css" />');
+else
+     document.write('<link rel="STYLESHEET" type="text/css" href="http://www.xml.com/styles/linux-px.css" />');
+// ]]> -->
+</script>
+
+<link rel="STYLESHEET" type="text/css"
+href="http://www.xml.com/styles/linux-px.css" />
+</head>
+<body bgcolor="#FFFFFF" text="#000000" alink="#000066">
+<!--  top banner ad  -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top"><!--  logo  -->
+<a href="/index.csp"><img src="/images/logo_tagline.jpg"
+alt="XML.com" width="135" height="74" border="0" hspace="0"
+vspace="0" /></a></td>
+<td valign="top" align="right">
+<table border="0" cellpadding="0" cellspacing="0" width="468"
+height="60">
+<tr>
+<td><!-- dy -->
+<iframe
+src="http://ad.doubleclick.net/adi/xml.ds/home;pos=top_home;sz=468x60;ord=1215421390?"
+ width="468" height="60" frameborder="0" marginwidth="0"
+marginheight="0" scrolling="no">
+<script type="text/javascript" language="JavaScript1.1"
+src="http://ad.doubleclick.net/adj/xml.ds/home;abr=!ie;pos=top_home;sz=468x60;ord=1215421390?">
+
+</script>
+</iframe> 
+
+<noscript><a
+href="http://ad.doubleclick.net/jump/xml.ds/home;abr=!ie;pos=top_home;sz=468x60;ord=1215421390?">
+<img
+src="http://ad.doubleclick.net/ad/xml.ds/home;abr=!ie;kw=pos=top_home;sz=468x60;ord=1215421390?"
+ border="0" width="468" height="60"
+alt="Advertisement" /></a></noscript> </td>
+</tr>
+</table>
+</td>
+<td align="right" width="100" valign="top"><span
+class="tiny">&#160;Sponsored by:<br />
+<a href="http://www.ixiasoft.com?from=xml.com"><img
+src="/images/ads/IXIASoft/ixiaicon.gif" border="0" width="80"
+height="60" align="right" /></a></span><br />
+</td>
+</tr>
+</table>
+
+<br />
+<!--  header  -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" colspan="2"><!--  tabs  -->
+<a href="http://www.xml.com/"><img src="/images/tab-xml.gif"
+alt="XML.com" width="97" height="18" border="0" /></a><a
+href="http://www.oreillynet.com/"><img src="/images/tab-on.gif"
+alt="O'Reilly Network" width="93" height="18" border="0" /></a><a
+href="http://www.oreilly.com/"><img src="/images/tab-oreilly.gif"
+alt="oreilly.com" width="94" height="18" border="0" /></a><a
+href="http://www.onjava.com/"><img src="/images/tab-onjava.gif"
+alt="ONJava.com" width="94" height="18" border="0" /></a></td>
+</tr>
+
+<tr><!--  horizontal nav links  -->
+<td valign="middle" bgcolor="#000066" class="header" height="26">
+&#160;&#160;<a class="header" href="http://www.xml.com/">Home</a>
+<b>|</b> <a class="header" href="/resourceguide/">Resources</a>
+<b>|</b> <a class="header" href="/buyersguide">Buyer's Guide</a>
+<b>|</b> <a class="header"
+href="http://www.oreillynet.com/faqs/list.csp?id_subject=23">FAQs</a>
+<b>|</b> <a class="header" href="/cs/user/register">Newsletter</a>
+<b>|</b> <a class="header" href="http://careers.xml.com/">Tech
+Jobs</a></td>
+<!--  search  -->
+<td valign="middle" bgcolor="#000066" class="secondary" height="26"
+align="right">
+<form method="get" action="http://www.xml.com/search/index.ncsp"
+enctype="application/x-www-form-urlencoded"><input type="text"
+name="sp-q" size="20 " maxlength="80" />&#160;&#160;<input
+type="submit" name="search" value="search"
+class="secondary" />&#160;&#160;</form>
+</td>
+</tr>
+
+<!--  conference header  -->
+<tr>
+<td valign="middle" colspan="2" bgcolor="#990000" class="header"
+height="22"><span class="header">&#160;&#160;<b>XML Conference and
+Exposition 2001:</b>&#160;<a href="/xml2001/"
+class="header">Personal Scheduler</a> | <a class="header"
+href="/cs/user/register?xsource=xml2001">Register</a></span></td>
+</tr>
+
+<tr>
+<td valign="top" colspan="2"><img src="/images/trans.gif" alt=" "
+width="1" height="5" /></td>
+</tr>
+</table>
+
+<!--  main content table  -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="5" valign="top" rowspan="4"><img src="/images/trans.gif"
+alt=" " width="5" height="1" /></td>
+<td width="130" valign="top" rowspan="4"><!--  navbar top  -->
+<!--  lc/5  -->
+<table width="145" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top"><nobr><img src="/images/blue-arrow.gif" alt=" "
+width="10" height="12" border="0" align="top" />&#160;<img
+src="/images/resource-centers.gif" width="130" height="25"
+alt="Resource Centers" border="0" align="top" /><br />
+<img src="/images/redline.jpg" width="145" height="1" border="0"
+alt=" " vspace="0" hspace="0" /></nobr></td>
+</tr>
+
+<tr>
+<td valign="top"><a href="/business/"
+class="navlink">Business</a></td>
+</tr>
+
+<tr>
+<td valign="top"><img src="/images/redline.jpg" width="145"
+height="1" border="0" alt=" " vspace="0" hspace="0" /></td>
+</tr>
+
+<tr>
+<td valign="top"><a href="/graphics/"
+class="navlink">Graphics</a></td>
+</tr>
+
+<tr>
+<td valign="top"><img src="/images/redline.jpg" width="145"
+height="1" border="0" alt=" " hspace="0" vspace="0" /></td>
+</tr>
+
+<tr>
+<td valign="top"><a href="/metadata"
+class="navlink">Metadata</a></td>
+</tr>
+
+<tr>
+<td valign="top"><img src="/images/redline.jpg" width="145"
+height="1" border="0" alt=" " vspace="0" hspace="0" /></td>
+</tr>
+
+<tr>
+<td valign="top"><a href="/mobile/" class="navlink">Mobile</a></td>
+</tr>
+
+<tr>
+<td valign="top"><img src="/images/redline.jpg" width="145"
+height="1" border="0" alt=" " vspace="0" hspace="0" /></td>
+</tr>
+
+<tr>
+<td valign="top"><a href="/programming/"
+class="navlink">Programming</a></td>
+</tr>
+
+<tr>
+<td valign="top"><img src="/images/redline.jpg" width="145"
+height="1" border="0" alt=" " vspace="0" hspace="0" /></td>
+</tr>
+
+<tr>
+<td valign="top"><a href="/protocols"
+class="navlink">Protocols</a></td>
+</tr>
+
+<tr>
+<td valign="top"><img src="/images/redline.jpg" width="145"
+height="1" border="0" alt=" " vspace="0" hspace="0" /></td>
+</tr>
+
+<tr>
+<td valign="top"><a href="/schemas"
+class="navlink">Schemas</a></td>
+</tr>
+
+<tr>
+<td valign="top"><img src="/images/redline.jpg" width="145"
+height="1" border="0" alt=" " vspace="0" hspace="0" /></td>
+</tr>
+
+<tr>
+<td valign="top"><a href="/style" class="navlink">Style</a></td>
+</tr>
+
+<tr>
+<td valign="top"><img src="/images/redline.jpg" width="145"
+height="1" border="0" alt=" " vspace="0" hspace="0" /></td>
+</tr>
+
+<tr>
+<td valign="top"><a href="/web/" class="navlink">Web</a></td>
+</tr>
+
+<tr>
+<td valign="top"><img src="/images/redline.jpg" width="145"
+height="1" border="0" alt=" " vspace="0" hspace="0" /></td>
+</tr>
+</table>
+
+<p></p>
+
+<img src="/images/blue-arrow.gif" alt=" " width="10" height="12"
+border="0" align="top" />&#160; <img src="/images/essentials.gif"
+width="90" height="11" alt="Essentials" border="0" /><br />
+<a href="/pub/a/axml/axmlintro.html">Annotated&#160;XML</a><br />
+<a href="/pub/a/98/10/guide0.html">What&#160;is&#160;XML?</a><br />
+<a
+href="/pub/a/2000/08/holman/index.html">What&#160;is&#160;XSLT?</a><br />
+
+ <a
+href="/pub/a/2000/09/xlink/index.html">What&#160;is&#160;XLink?</a><br />
+<a
+href="/pub/a/2000/11/29/schemas/part1.html">What&#160;is&#160;XML&#160;Schema?</a><br />
+<a
+href="/pub/a/2001/01/24/rdf.html">What&#160;is&#160;RDF?</a><br />
+<a href="/pub/a/2001/04/04/webservices/index.html">What are Web
+Services?</a><br />
+<br />
+ 
+
+<table border="0" cellpadding="0" cellspacing="0" width="120"
+height="240">
+<tr>
+<td><!-- dy -->
+<iframe
+src="http://ad.doubleclick.net/adi/xml.ds/home;pos=cb_home;sz=120x240;ord=1991322083?"
+ width="120" height="240" frameborder="0" marginwidth="0"
+marginheight="0" scrolling="no">
+<script type="text/javascript" language="JavaScript1.1"
+src="http://ad.doubleclick.net/adj/xml.ds/home;abr=!ie;pos=cb_home;sz=120x240;ord=1991322083?">
+
+</script>
+</iframe> 
+
+<noscript><a
+href="http://ad.doubleclick.net/jump/xml.ds/home;abr=!ie;pos=cb_home;sz=120x240;ord=1991322083?">
+<img
+src="http://ad.doubleclick.net/ad/xml.ds/home;abr=!ie;kw=pos=cb_home;sz=120x240;ord=1991322083?"
+ border="0" width="120" height="240"
+alt="Advertisement" /></a></noscript> </td>
+</tr>
+</table>
+
+<!--  125 tile ad  -->
+<br />
+<!--  navbar bottom  -->
+<!--  lc/53  -->
+ 
+
+<p><span class="secondary"><a
+href="http://www.xml.com/cs/user/login">Manage Your
+Account</a><br />
+<a href="http://www.xml.com/cs/user/lostpw">Forgot Your
+Password?</a></span></p>
+
+<p class="secondary"><img src="/images/blue-arrow.gif" alt=" "
+width="10" height="12" border="0" align="top" />&#160;<img
+src="/universal/images/find.gif" width="36" height="11" alt="Find"
+border="0" /><br />
+<a href="http://www.xml.com/search/">Search</a><br />
+<a href="/ArticlesbyTopic/">Article Archive</a><br />
+<a
+href="http://www.oreillynet.com/faqs/list.csp?id_subject=23">FAQs</a><br />
+<br />
+</p>
+
+<a href="/pub/a/2001/03/21/xml_com_feed.html" border="0"><img
+src="/universal/images/add-xml.gif" width="120" height="60"
+alt="Add XML to your Website" border="0" /></a> 
+
+<p><span class="secondary"><img src="/images/blue-arrow.gif"
+alt=" " width="10" height="12" border="0" align="top" />&#160;<img
+src="/images/columns.gif" width="75" height="11" alt="Columns"
+border="0" /><br />
+<a href="/pub/q/xmldeviant"><nobr>XML-Deviant</nobr></a><br />
+<a href="/pub/q/stylematters"><nobr>Style Matters</nobr></a><br />
+<a href="/pub/q/xmlqanda"><nobr>XML Q&amp;A</nobr></a><br />
+<a href="/pub/q/transformingxml"><nobr>Transforming
+XML</nobr></a><br />
+<a href="/pub/q/perlxml"><nobr>Perl and XML</nobr></a><br />
+<a href="/pub/q/endpoints"><nobr>XML Endpoints</nobr></a><br />
+ <a href="/pub/q/taglines"><nobr>&lt;taglines&gt;</nobr></a><br />
+<br />
+ <!--  tech jobs  -->
+ <img src="/images/blue-arrow.gif" alt=" " width="10" height="12"
+border="0" align="top" />&#160;<img
+src="/universal/images/guides.gif" width="54" height="11"
+alt="Guides" border="0" /><br />
+<a href="/resourceguide/">XML&#160;Resources</a><br />
+<a href="/buyersguide/">Buyer's&#160;Guide</a><br />
+<a href="/events">Events&#160;Calendar</a><br />
+<a href="/pub/q/stdlist">Standards List</a><br />
+<a href="/pub/q/submlist">Submissions List</a><br />
+<br />
+</span> <!--  contest_winner  -->
+<!-- <table width="130" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" bgcolor="#000066" colspan="3">
+<img src="/images/trans.gif" alt=" " width="130" height="2"></td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#000066">
+<img src="/images/trans.gif" alt=" " width="2" height="10"></td>
+<td valign="top" bgcolor="#efefef">
+<img src="/images/trans.gif" alt=" " width="10" height="10"></td>
+<td valign="top" bgcolor="#efefef">
+<p class="secondary"><b>Congratulations!</b><br />
+Congratulations to our monthly contest winner for November, David Noble of Orangeville, Ontario.<br />
+<a href="http://www.xml.com/cs/user/register">Sign up to win!</a></p>
+</td>
+</tr>
+</table><br /> -->
+<span class="secondary"><img src="/images/blue-arrow.gif" alt=" "
+width="10" height="12" border="0" align="top" />&#160;<img
+src="/universal/images/toolbox.gif" width="67" height="11"
+alt="Toolbox" border="0" /><br />
+<img src="/images/trans.gif" alt=" " width="150" height="5"
+border="0" /><br />
+<a
+href="/pub/a/tools/ruwf/check.html">Syntax&#160;Checker</a><br />
+<br />
+</span> <a href="http://www.seyboldreport.com/"><img
+src="/images/seybold.gif" width="114" height="47"
+alt="Seybold Publications" border="0" /></a><br />
+<br />
+<a href="http://www.oreillynet.com/"><img
+src="/images/sm-xml_logo.jpg"
+alt="This site is on the O'Reilly Network" width="120" height="98"
+border="0" /></a><br />
+<img src="/images/trans.gif" width="140" height="10" alt=""
+border="0" /><br />
+</p>
+
+<br />
+</td>
+<td width="20" valign="top" rowspan="4"><img
+src="/images/trans.gif" alt=" " width="20" height="1" vspace="0"
+hspace="0" /></td>
+<!--  content here  -->
+<td valign="top"><!--  tiles for cover  -->
+<table width="100%" cellspacing="0" cellpadding="4" border="0"
+align="center">
+<tr>
+<td width="25%"></td>
+<td valign="top" width="111">
+<p class="secondary"><a
+href="http://www.xml.com/pub/a/2001/11/28/dbxml.html"><img
+src="http://www.xml.com/2001/11/28/graphics/111-dbxml.gif"
+alt="Introduction to dbXML" width="111" height="91"
+border="0" /></a><br />
+<a href="http://www.xml.com/pub/a/2001/11/28/dbxml.html">An
+introduction to dbXML, an open source native XML database</a></p>
+</td>
+<td width="25%"></td>
+<td valign="top" width="111">
+<p class="secondary"><a
+href="http://www.xml.com/pub/a/2001/11/28/scrollkeeper.html"><img
+src="http://www.xml.com/2001/11/28/graphics/111-scrollkeeper.jpg"
+alt="ScrollKeeper: Open Source Document Management" width="111"
+height="91" border="0" /></a><br />
+<a
+href="http://www.xml.com/pub/a/2001/11/28/scrollkeeper.html">Tying
+together the diverse world of open source documentation</a></p>
+</td>
+<td width="25%"></td>
+<td valign="top" width="111">
+<p class="secondary"><a
+href="http://www.xml.com/pub/a/2001/11/28/q-and-a.html"><img
+src="http://www.xml.com/universal/images/111-qandaxml.jpg"
+alt="Elements Revisited" width="111" height="91"
+border="0" /></a><br />
+<a href="http://www.xml.com/pub/a/2001/11/28/q-and-a.html">Element
+names and content models can be tricky things.</a></p>
+</td>
+<td width="25%">&#160;</td>
+</tr>
+</table>
+
+<br />
+<!--  lede space  -->
+ 
+
+<p class="secondary"><b><a
+href="http://www.xml.com/pub/a/2001/11/21/svgtools.html">SVG: Where
+Are We Now?</a></b><br />
+by Antoine Quint<br />
+Nov. 21, 2001<br />
+ SVG expert Antoine Quint surveys the current state of tool support
+for the W3C's Scalable Vector Graphics Recommendation.</p>
+
+<p class="secondary"><b><a
+href="http://www.xml.com/pub/a/2001/11/21/wrap-yr-app.html">Wrap
+Your App</a></b><br />
+by Leigh Dodds<br />
+Nov. 21, 2001<br />
+ Leigh Dodds reports on recent community conversations about
+solving the XML application packaging problem.</p>
+
+<p class="secondary"><b><a
+href="http://www.xml.com/pub/a/2001/11/21/data-encoding.html">Data
+Encoding or Data 'n Coding?</a></b><br />
+by Timothy Ewald, Martin Gudgin<br />
+Nov. 21, 2001<br />
+ How should XML types and programming language types be related?
+This month's XML Endpoints column offers a clear discussion of the
+relevant positions.</p>
+
+<p class="secondary"><b><a
+href="http://www.xml.com/pub/a/2001/11/14/e-filing.html">XML in
+Electronic Court Filing</a></b><br />
+by Ken Pittman<br />
+Nov. 14, 2001<br />
+ An overview of how XML is finding application in several
+electronic court filing pilot schemes throughout the US.</p>
+
+<p class="secondary"><b><a
+href="http://www.xml.com/pub/a/2001/11/14/xml-libxml.html">XML::LibXML
+- An XML::Parser Alternative</a></b><br />
+by Kip Hampton<br />
+Nov. 14, 2001<br />
+ Kip Hampton discusses XML::LibXML, a capable, updated alternative
+to Perl's venerable and venerated XML::Parser.</p>
+
+<br />
+<br />
+<!--  new resources  -->
+<!-- <csquery path="q/5"><br /> -->
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="40%" valign="top">
+<!--  xmlhack/robin cover news feed  -->
+<table width="100%" border="0" cellspacing="0" cellpadding="4">
+<tr>
+<td bgcolor="#6699ff" align="left" class="headline">XML News</td>
+</tr>
+
+<tr>
+<td bgcolor="#efefef"><span class="secondary">&#149;&#160;<a
+href="http://www.xmlhack.com/read.php?item=1470">BEEP
+implementation for .NET/C#</a><span><span
+class="smalltext">&#160;<i>[<a
+href="http://www.xmlhack.com">xmlhack</a>]</i></span><br />
+ <span class="secondary">&#149;&#160;<a
+href="http://www.xmlhack.com/read.php?item=1469">MinML-RPC,
+Sandstorm XML-RPC framework</a><span><span
+class="smalltext">&#160;<i>[<a
+href="http://www.xmlhack.com">xmlhack</a>]</i></span><br />
+ <span class="secondary">&#149;&#160;<a
+href="http://www.xmlhack.com/read.php?item=1468">New book,
+tutorials and reference: ebXML, Python/XML, Relax NG</a><span><span
+class="smalltext">&#160;<i>[<a
+href="http://www.xmlhack.com">xmlhack</a>]</i></span><br />
+ <span class="secondary">&#149;&#160;<a
+href="http://www.xmlhack.com/read.php?item=1467">XSLT as query
+language</a><span><span class="smalltext">&#160;<i>[<a
+href="http://www.xmlhack.com">xmlhack</a>]</i></span><br />
+ <span class="secondary">&#149;&#160;<a
+href="http://www.xmlhack.com/read.php?item=1466">Exclusive XML
+Canonicalization in Last Call</a><span><span
+class="smalltext">&#160;<i>[<a
+href="http://www.xmlhack.com">xmlhack</a>]</i></span><br />
+ <span class="secondary">&#149;&#160;<a
+href="http://www.xmlhack.com/read.php?item=1465">NewsML Toolkit
+1.1beta</a><span><span class="smalltext">&#160;<i>[<a
+href="http://www.xmlhack.com">xmlhack</a>]</i></span><br />
+ <span class="secondary">&#149;&#160;<a
+href="http://xml.com/pub/r/1271">RDFAuthor</a><span><span
+class="smalltext">&#160;<i>[<a href="http://xml.com/">XML.com
+Resource Guide</a>]</i></span><br />
+ <span class="secondary">&#149;&#160;<a
+href="http://xml.com/pub/r/1270">SportsML: The Sports Markup
+Language</a><span><span class="smalltext">&#160;<i>[<a
+href="http://xml.com/">XML.com Resource Guide</a>]</i></span><br />
+ <span class="secondary">&#149;&#160;<a
+href="http://xml.com/pub/r/1269">cdli: Cuneiform Digital Library
+Initiative</a><span><span class="smalltext">&#160;<i>[<a
+href="http://xml.com/">XML.com Resource Guide</a>]</i></span><br />
+ <span class="secondary">&#149;&#160;<a
+href="http://www.xmlhack.com/read.php?item=1464">xsl-editors@w3.org
+opens its doors</a><span><span class="smalltext">&#160;<i>[<a
+href="http://www.xmlhack.com">xmlhack</a>]</i></span><br />
+<br />
+<a href="http://www.xmlhack.com/"><img src="/images/more-gray.gif"
+alt="To xmlhack.com" width="45" height="15" border="0"
+align="right" /></a><br />
+<br />
+</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></td>
+</tr>
+</table>
+</td>
+<td valign="top"><img src="/images/trans.gif" alt=" " width="10"
+height="1" /></td>
+<td width="60%" valign="top"><!--  buyers guide  -->
+<table width="100%" border="0" cellspacing="0" cellpadding="4">
+<tr>
+<td bgcolor="#6699ff" align="left" class="headline">Buyer's
+Guide</td>
+<td bgcolor="#6699ff" align="right"><a href="/buyersguide/"><img
+src="/images/more.gif" width="66" height="15" border="0"
+alt="More Buyer's Guide" /></a></td>
+</tr>
+
+<tr>
+<td bgcolor="#efefef" colspan="2">
+<p class="secondary"><b>Document Authoring</b> - <span
+class="smalltext"><a
+href="http://www.siberlogic.com/products/xml">Sponsored by
+SiberSafe: XML CMS</a></span><br />
+<span class="secondary"><a
+href="/pub/pt/3">Editors</a>&#160;</span> <span
+class="secondary"><a href="/pub/pt/5">Graphics</a>&#160;</span>
+<span class="secondary"><a href="/pub/pt/4">Style
+Tools</a>&#160;</span></p>
+
+<p class="secondary"><b>Website Tools</b><br />
+<span class="secondary"><a href="/pub/pt/1">Content
+Exchange/Syndication</a>&#160;</span> <span class="secondary"><a
+href="/pub/pt/6">Information Servers</a>&#160;</span></p>
+
+<p class="secondary"><b>Ecommerce</b><br />
+<span class="secondary"><a href="/pub/pt/10">Application
+Builders</a>&#160;</span> <span class="secondary"><a
+href="/pub/pt/11">EDI</a>&#160;</span></p>
+
+<p class="secondary"><b>Data Management</b><br />
+<span class="secondary"><a href="/pub/pt/7">Application
+Generator</a>&#160;</span> <span class="secondary"><a
+href="/pub/pt/17">Data Analysis</a>&#160;</span> <span
+class="secondary"><a href="/pub/pt/2">Schema/DTD
+Editors</a>&#160;</span> <span class="secondary"><a
+href="/pub/pt/8">Search Tools</a>&#160;</span> <span
+class="secondary"><a href="/pub/pt/9">Tree
+Viewers</a>&#160;</span></p>
+
+<p class="secondary"><a
+href="/pub/pt/15"><b>Databases/Repositories</b></a> - <span
+class="smalltext"><a
+href="http://www.siberlogic.com/products/xml">Sponsored by
+SiberSafe: XML CMS</a></span></p>
+
+<p class="secondary"><a href="/pub/pt/12"><b>Print
+Production</b></a></p>
+
+<p class="secondary"><b>Training</b><br />
+<span class="secondary"><a href="/pub/pt/13">Books</a>&#160;</span>
+<span class="secondary"><a
+href="/pub/pt/14">Courses</a>&#160;</span></p>
+</td>
+</tr>
+</table>
+
+<br />
+<!--  books  -->
+<table width="100%" border="0" cellpadding="4" cellspacing="0">
+<tr>
+<td bgcolor="#6699ff" valign="middle" width="100%"
+class="headline"><b>Books</b></td>
+</tr>
+</table>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="8" bgcolor="#efefef"><img src="/images/trans.gif"
+width="8" height="1" alt=" " /></td>
+<td valign="top" bgcolor="#efefef">
+<p class="smalllist"><a
+href="http://www.oreilly.com/catalog/progxmlrpc/">Programming Web
+Services with XML-RPC</a></p>
+
+<p class="smalllist"><a
+href="http://www.oreilly.com/catalog/xmlpr2/">XML Pocket Reference,
+2nd Edition</a></p>
+
+<p class="smalllist"><a
+href="http://www.oreilly.com/catalog/javaxml2/">Java &amp; XML, 2nd
+Edition</a></p>
+
+<p class="smalllist"><a
+href="http://www.oreilly.com/catalog/xslt/">XSLT</a></p>
+
+<p class="smalllist"><a
+href="http://www.oreilly.com/catalog/docbook/">DocBook: The
+Definitive Guide</a></p>
+
+<img src="/images/safari_paw.gif" width="15" height="15" border="0"
+align="left" alt="Paw print" vspace="4" hspace="4" /><span
+class="smalltext">Visit <a
+href="http://safari.oreilly.com/">Safari: O'Reilly Books
+Online</a>&#153;<br clear="all" />
+<a href="http://xml.oreilly.com/"><img src="/images/more-gray.gif"
+border="0" alt="More XML Books" width="45" height="15" hspace="0"
+vspace="10" align="right" /></a></span></td>
+<td width="8" bgcolor="#efefef"><img src="/images/trans.gif"
+width="8" height="1" alt=" " /></td>
+</tr>
+</table>
+
+<br />
+<!-- <csinclude layoutfile="home/faqs.html"> -->
+</td>
+</tr>
+</table>
+
+<img src="/images/trans.gif" alt=" " width="470" height="1"
+border="0" /></td>
+<td valign="top"><img src="/images/trans.gif" alt=" " width="10"
+height="1" /></td>
+<!--  right column  -->
+<td valign="top" width="122"><!--  gold sponsors  -->
+Sponsored By:<br />
+<br />
+ 
+
+<table bgcolor="#cccccc" border="0" cellpadding="5"
+cellspacing="0">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0"
+bgcolor="#ffffff">
+<tr>
+<td align="center" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="120"
+height="90">
+<tr>
+<td><!-- dy -->
+<iframe
+src="http://ad.doubleclick.net/adi/xml.ds/home;pos=sponsor1_home;sz=120x90;ord=1681204872?"
+ width="120" height="90" frameborder="0" marginwidth="0"
+marginheight="0" scrolling="no">
+<script type="text/javascript" language="JavaScript1.1"
+src="http://ad.doubleclick.net/adj/xml.ds/home;abr=!ie;pos=sponsor1_home;sz=120x90;ord=1681204872?">
+
+</script>
+</iframe> 
+
+<noscript><a
+href="http://ad.doubleclick.net/jump/xml.ds/home;abr=!ie;pos=sponsor1_home;sz=120x90;ord=1681204872?">
+<img
+src="http://ad.doubleclick.net/ad/xml.ds/home;abr=!ie;kw=pos=sponsor1_home;sz=120x90;ord=1681204872?"
+ border="0" width="120" height="90"
+alt="Advertisement" /></a></noscript> </td>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr>
+<td height="10" bgcolor="#cccccc"><img width="1" height="1" /></td>
+</tr>
+
+<tr>
+<td align="center" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="120"
+height="90">
+<tr>
+<td><!-- dy -->
+<iframe
+src="http://ad.doubleclick.net/adi/xml.ds/home;pos=sponsor2_home;sz=120x90;ord=1268610772?"
+ width="120" height="90" frameborder="0" marginwidth="0"
+marginheight="0" scrolling="no">
+<script type="text/javascript" language="JavaScript1.1"
+src="http://ad.doubleclick.net/adj/xml.ds/home;abr=!ie;pos=sponsor2_home;sz=120x90;ord=1268610772?">
+
+</script>
+</iframe> 
+
+<noscript><a
+href="http://ad.doubleclick.net/jump/xml.ds/home;abr=!ie;pos=sponsor2_home;sz=120x90;ord=1268610772?">
+<img
+src="http://ad.doubleclick.net/ad/xml.ds/home;abr=!ie;kw=pos=sponsor2_home;sz=120x90;ord=1268610772?"
+ border="0" width="120" height="90"
+alt="Advertisement" /></a></noscript> </td>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr>
+<td height="10" bgcolor="#cccccc"><img width="1" height="1" /></td>
+</tr>
+
+<tr>
+<td align="center" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="120"
+height="90">
+<tr>
+<td><!-- dy -->
+<iframe
+src="http://ad.doubleclick.net/adi/xml.ds/home;pos=sponsor3_home;sz=120x90;ord=1309803391?"
+ width="120" height="90" frameborder="0" marginwidth="0"
+marginheight="0" scrolling="no">
+<script type="text/javascript" language="JavaScript1.1"
+src="http://ad.doubleclick.net/adj/xml.ds/home;abr=!ie;pos=sponsor3_home;sz=120x90;ord=1309803391?">
+
+</script>
+</iframe> 
+
+<noscript><a
+href="http://ad.doubleclick.net/jump/xml.ds/home;abr=!ie;pos=sponsor3_home;sz=120x90;ord=1309803391?">
+<img
+src="http://ad.doubleclick.net/ad/xml.ds/home;abr=!ie;kw=pos=sponsor3_home;sz=120x90;ord=1309803391?"
+ border="0" width="120" height="90"
+alt="Advertisement" /></a></noscript> </td>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr>
+<td height="10" bgcolor="#cccccc"><img width="1" height="1" /></td>
+</tr>
+
+<tr>
+<td align="center" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="120"
+height="90">
+<tr>
+<td><!-- dy -->
+<iframe
+src="http://ad.doubleclick.net/adi/xml.ds/home;pos=sponsor4_home;sz=120x90;ord=1583534590?"
+ width="120" height="90" frameborder="0" marginwidth="0"
+marginheight="0" scrolling="no">
+<script type="text/javascript" language="JavaScript1.1"
+src="http://ad.doubleclick.net/adj/xml.ds/home;abr=!ie;pos=sponsor4_home;sz=120x90;ord=1583534590?">
+
+</script>
+</iframe> 
+
+<noscript><a
+href="http://ad.doubleclick.net/jump/xml.ds/home;abr=!ie;pos=sponsor4_home;sz=120x90;ord=1583534590?">
+<img
+src="http://ad.doubleclick.net/ad/xml.ds/home;abr=!ie;kw=pos=sponsor4_home;sz=120x90;ord=1583534590?"
+ border="0" width="120" height="90"
+alt="Advertisement" /></a></noscript> </td>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr>
+<td height="10" bgcolor="#cccccc"><img width="1" height="1" /></td>
+</tr>
+
+<tr>
+<td align="center" valign="top">
+<!-- <ad co="dc" site="xml" page="home" pos="sponsor5" width="120" height="90" /> --></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<br />
+<!--  events  -->
+<table width="100%" border="0" cellspacing="0" cellpadding="4">
+<tr>
+<td bgcolor="#6699ff" align="left" class="headline">Events</td>
+<td bgcolor="#6699ff" align="right"><a
+href="http://xml.com/events/"><img src="/images/more.gif"
+width="66" height="15" border="0" alt="More" /></a></td>
+</tr>
+
+<tr>
+<td bgcolor="#efefef" colspan="2"><span class="tiny"><a
+href="/pub/e/153">Introduction to XSLT and Xpath Course</a>&#160;
+[Dec. 3, 2001]</span><br />
+<br />
+<span class="tiny"><a href="/pub/e/155">XML in the Real
+World</a>&#160; [Dec. 4, 2001]</span><br />
+<br />
+<span class="tiny"><a href="/pub/e/152">Introduction to XSLFO
+Course</a>&#160; [Dec. 5, 2001]</span><br />
+<br />
+<span class="tiny"><a href="/pub/e/143">Interoperability
+Summit</a>&#160; [Dec. 6, 2001]</span><br />
+<br />
+<span class="tiny"><a href="/pub/e/156">Paul Harmon: CBD and XML -
+Two Worlds?</a>&#160; [Dec. 10, 2001]</span><br />
+<br />
+<span class="tiny"><a href="/pub/e/158">Developing XSLT
+Applications</a>&#160; [Dec. 11, 2001]</span><br />
+<br />
+</td>
+</tr>
+</table>
+
+<br />
+<!--  Macromedia Ad  -->
+<a
+href="http://ad.doubleclick.net/clk;3415514;6477536;m?http://www.macromedia.com/software/coldfusion/special/promotions/"
+ border="0"><img
+src="http://oreillynet.com/images/sponsors/Coldfusion.gif"
+width="120" height="240" border="0" /></a><br />
+<!--  P2P Report Ad  -->
+<a href="http://www.oreilly.com/catalog/p2presearch/"
+border="0"><img src="/universal/images/120-p2preport2-revised.gif"
+border="0" /></a><br />
+</td>
+</tr>
+</table>
+
+<br />
+<!--  footer  -->
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr><!-- <td valign="top"> -->
+<!--  logo  -->
+<!-- <csinclude record="lc/3" field="html"></td> -->
+<td valign="top" align="right">
+<table border="0" cellpadding="0" cellspacing="0" width="468"
+height="60">
+<tr>
+<td><!-- dy -->
+<iframe
+src="http://ad.doubleclick.net/adi/xml.ds/home;pos=bot_home;sz=468x60;ord=1755122291?"
+ width="468" height="60" frameborder="0" marginwidth="0"
+marginheight="0" scrolling="no">
+<script type="text/javascript" language="JavaScript1.1"
+src="http://ad.doubleclick.net/adj/xml.ds/home;abr=!ie;pos=bot_home;sz=468x60;ord=1755122291?">
+
+</script>
+</iframe> 
+
+<noscript><a
+href="http://ad.doubleclick.net/jump/xml.ds/home;abr=!ie;pos=bot_home;sz=468x60;ord=1755122291?">
+<img
+src="http://ad.doubleclick.net/ad/xml.ds/home;abr=!ie;kw=pos=bot_home;sz=468x60;ord=1755122291?"
+ border="0" width="468" height="60"
+alt="Advertisement" /></a></noscript> </td>
+</tr>
+</table>
+
+<!--  bottom banner ad  -->
+</td>
+</tr>
+
+<tr>
+<td valign="top" colspan="2"><img src="/images/trans.gif" alt=" "
+width="1" height="5" /></td>
+</tr>
+
+<!--  About links  -->
+<tr>
+<td valign="middle" colspan="2" bgcolor="#6699ff" align="center"
+height="20" class="tinywhite"><a href="/pub/a/admin/commune.html"
+class="header">Contact&#160;Us</a> | <a
+href="/pub/a/admin/mission.html"
+class="header">Our&#160;Mission</a> | <a
+href="/pub/a/admin/policy.html"
+class="header">Privacy&#160;Policy</a> | <a
+href="http://www.oreillynet.com/pub/a/mediakit/index.html"
+class="header">Advertise With Us</a> | <a
+href="mailto:xml-help@xml.com" class="header">Site Help</a></td>
+</tr>
+
+<!--  copyright  -->
+<tr>
+<td valign="middle" colspan="2" bgcolor="#000066" align="center"
+height="20"><!--  copyright  -->
+<span class="tinywhite">Copyright &#169; 2001 O'Reilly &amp;
+Associates, Inc.</span></td>
+</tr>
+</table>
+</body>
+</html>
