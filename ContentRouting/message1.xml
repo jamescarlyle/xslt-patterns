@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<rss>
+	<channel>
+		<item><title>abc</title><link>http://abc.com</link></item>
+		<item><title>def</title><link>http://def.com</link></item>
+	</channel>
+</rss>

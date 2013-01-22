@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<rules xmlns:cbr="urn:schemas-calaba-com:xml-ruleProcessing:cbr">
+	<rss>
+		<channel>
+			<item><title cbr:id="1">abc</title><link>http://abc.com</link></item>
+			<item><title cbr:id="2">def</title><link>http://def.com</link></item>
+			<item><title cbr:id="3"/></item>
+		</channel>
+	</rss>
+	<addressBook>
+		<group id="work">
+			<person><firstName cbr:id="3">Ian</firstName><lastName>Davis</lastName></person>
+			<person><firstName cbr:id="4">Andy</firstName><lastName>Skeet</lastName></person>
+		</group>
+	</addressBook>
+</rules>
